@@ -1,0 +1,2935 @@
+[
+    {
+        "title": "Bachelor of Science in Computer Science(BSCS)",
+        "higher_education_degree": [
+            "Master of Science in Computer Science (MSCS)",
+            "Master of Science in Software Engineering (MSSE)",
+            "Master of Science in Information Technology (MSIT)",
+            "Master of Science in Data Science (MSDS)",
+            "Master of Science in Cybersecurity (MSC)",
+            "Master of Science in Artificial Intelligence (MSAI)",
+            "Master of Science in Computer Engineering (MSCE)",
+            "Master of Science in Information Systems (MSIS)",
+            "Master of Business Administration (MBA) with a concentration in Information Technology",
+            "Master of Science in Management Information Systems (MSMIS)",
+            "Master of Science in Computer and Information Science (MSCIS)",
+            "Master of Science in Human-Computer Interaction (MSHCI)",
+            "Master of Science in Computational Science and Engineering (MSCSE)",
+            "Master of Science in Computer Graphics Technology (MSCGT)",
+            "Master of Science in Computer Networking (MSCN)"
+        ]
+        
+    },
+    {
+        "title": "Bachelor of Science in Electrical Engineering(BSEE)",
+        "higher_education_degree": [
+            "Master of Science in Electrical Engineering (MSEE)",
+            "Master of Engineering in Electrical Engineering (MEng EE)",
+            "Master of Business Administration (MBA)",
+            "Master of Science in Management (MSM)",
+            "Master of Science in Information Technology (MSIT)",
+            "Master of Science in Computer Engineering (MSCE)",
+            "Master of Science in Renewable Energy (MSRE)",
+            "Master of Science in Power Systems Engineering (MSPSE)"
+        ]
+        
+    },
+    {
+        "title": "Bachelor of Science in Mechanical Engineering(BSME)",
+        "higher_education_degree": [
+            "Master of Science in Mechanical Engineering (MSME)",
+            "Master of Engineering in Mechanical Engineering (MEng ME)",
+            "Master of Business Administration (MBA)",
+            "Master of Science in Management (MSM)",
+            "Master of Science in Engineering Management (MSEM)",
+            "Master of Science in Industrial Engineering (MSIE)",
+            "Master of Science in Operations Research (MSOR)",
+            "Master of Science in Supply Chain Management (MSSCM)",
+            "Master of Science in Project Management (MSPM)"
+        ]
+        
+    },
+    {
+        "title": "Bachelor of Science in Civil Engineering(BSCE)",
+        "higher_education_degree": [
+            "Master of Civil Engineering (MCE)",
+            "Master of Structural Engineering (MSE)",
+            "Master of Environmental Engineering (MEE)",
+            "Master of Transportation Engineering (MTE)",
+            "Master of Geotechnical Engineering (MGE)",
+            "Master of Construction Management (MCM)",
+            "Master of Engineering Management (MEM)"
+        ]
+        
+    },
+    {
+        "title": "Bachelor of Science in Chemical Engineering(BSCHE)",
+        "higher_education_degree": [
+            "Master of Chemical Engineering (MCHE)",
+            "Master of Science in Chemical Engineering (MS in CHE)",
+            "Master of Business Administration (MBA)",
+            "Master of Science in Environmental Engineering (MSEE)",
+            "Master of Science in Petroleum Engineering (MSPE)",
+            "Master of Science in Materials Science and Engineering (MSMSE)",
+            "Master of Science in Nanotechnology (MSN)",
+            "Master of Science in Biomedical Engineering (MSBME)",
+            "Master of Science in Pharmaceutical Engineering (MSPE)",
+            "Master of Science in Food Engineering (MSFE)"
+        ]
+        
+    },
+    {
+        "title": "Bachelor of Science in Aerospace Engineering(BSAE)",
+        "higher_education_degree": [
+            "Master of Aerospace Engineering (MAE)",
+            "Master of Science in Aerospace Engineering (MSAE)",
+            "Master of Business Administration (MBA)",
+            "Master of Engineering (MEng)",
+            "Master of Science in Mechanical Engineering (MSME)",
+            "Master of Science in Electrical Engineering (MSEE)",
+            "Master of Science in Aerospace Systems Engineering (MSASE)",
+            "Master of Science in Astronautics (MSA)",
+            "Master of Science in Aeronautics (MSAero)",
+            "Master of Science in Space Systems (MSSS)",
+            "Master of Science in Avionics (MSAv)",
+            "Master of Science in Flight Test Engineering (MSFTE)"
+        ]
+        
+    },
+    {
+        "title": "Bachelor of Science in Biomedical Engineering(BSBME)",
+        "higher_education_degree": [
+            "Master of Health Administration (MHA)",
+            "Master of Public Health (MPH)"
+        ]
+        
+    },
+    {
+        "title": "Bachelor of Business Administration (BBA)",
+        "higher_education_degree": [
+            "Master of Business Administration (MBA)",
+            "Master of Management (MM)",
+            "Master of Science in Business Analytics (MSBA)",
+            "Master of Science in Finance (MSF)",
+            "Master of Science in Marketing (MSM)",
+            "Master of Science in Accounting (MSA)",
+            "Master of Science in Human Resource Management (MSHRM)",
+            "Master of Science in Operations Management (MSOM)",
+            "Master of Science in Supply Chain Management (MSSCM)",
+            "Master of Science in Entrepreneurship (MSE)",
+            "Master of Science in International Business (MSIB)",
+            "Master of Science in Information Systems (MSIS)",
+            "Master of Science in Organizational Leadership (MSOL)"
+        ]
+        
+    },
+    {
+        "title": "Bachelor of Commerce (BCom)",
+        "higher_education_degree": [
+            "Master of Commerce (MCom)",
+            "Master of Business Administration (MBA)",
+            "Master of Accounting (MAcc)",
+            "Master of Finance (MFin)",
+            "Master of Economics (MEcon)",
+            "Master of Marketing (MMkt)",
+            "Master of International Business (MIB)",
+            "Master of Human Resource Management (MHRM)",
+            "Master of Management (MM)",
+            "Master of Supply Chain Management (MSCM)",
+            "Master of Entrepreneurship (MEnt)",
+            "Master of Business Analytics (MBA)",
+            "Master of Information Systems (MIS)",
+            "Master of Business Information Technology (MBIT)",
+            "Master of Project Management (MPM)"
+        ]
+        
+    },
+    {
+        "title": "Bachelor of Science in Economics (BSc Economics)",
+        "higher_education_degree": [
+            "Master of Business Administration (MBA)",
+            "Master of Science in Economics (MSc Economics)",
+            "Master of Arts in Economics (MA Economics)",
+            "Master of Finance (MFin)",
+            "Master of Financial Economics (MFE)",
+            "Master of Public Administration (MPA)",
+            "Master of Public Policy (MPP)",
+            "Master of International Affairs (MIA)",
+            "Master of Health Administration (MHA)",
+            "Master of Public Health (MPH)"
+        ]
+        
+    },
+    {
+        "title": "Bachelor of Science in Finance (BSc Finance)",
+        "higher_education_degree": [
+            "Master of Business Administration (MBA)",
+            "Master of Finance (MFin)",
+            "Master of Science in Finance (MSF)",
+            "Master of Financial Economics (MFE)",
+            "Master of Accounting (MAcc)",
+            "Master of Financial Risk Management (MFRM)",
+            "Master of Quantitative Finance (MQF)",
+            "Master of Financial Engineering (MFE)",
+            "Master of Investment Management (MIM)"
+        ]
+        
+    },
+    {
+        "title": "Bachelor of Science in Accounting (BSc Accounting)",
+        "higher_education_degree": [
+            "Master of Accountancy (MAcc)",
+            "Master of Business Administration (MBA)",
+            "Master of Finance (MFin)",
+            "Master of Science in Accounting (MSA)",
+            "Master of Taxation (MTax)",
+            "Master of Management (MM)",
+            "Master of Financial Economics (MFE)",
+            "Master of Professional Accountancy (MPA)",
+            "Master of Science in Finance (MSF)"
+        ]
+        
+    },
+    {
+        "title": "Bachelor of Science in Business Information Systems (BSc BIS)",
+        "higher_education_degree": [
+            "Master of Business Administration (MBA)",
+            "Master of Science in Information Systems (MSIS)",
+            "Master of Science in Business Analytics (MSBA)",
+            "Master of Science in Management Information Systems (MSMIS)",
+            "Master of Science in Technology Management (MSTM)",
+            "Master of Science in Computer Science (MSCS)",
+            "Master of Science in Data Science (MSDS)",
+            "Master of Science in Information Technology (MSIT)",
+            "Master of Science in Cybersecurity (MSC)",
+            "Master of Science in Project Management (MSPM)"
+        ]
+        
+    },
+    {
+        "title": "Bachelor of Science in Marketing (BSc Marketing)",
+        "higher_education_degree": [
+            "Master of Business Administration (MBA)",
+            "Master of Marketing (MM)",
+            "Master of Science in Marketing (MS Marketing)",
+            "Master of Science in International Marketing (MS International Marketing)",
+            "Master of Science in Digital Marketing (MS Digital Marketing)",
+            "Master of Science in Marketing Analytics (MS Marketing Analytics)",
+            "Master of Science in Strategic Marketing (MS Strategic Marketing)"
+        ]
+        
+    },
+    {
+        "title": "Bachelor of Science in Human Resource Management (BSc HRM)",
+        "higher_education_degree": [
+            "Master of Business Administration (MBA)",
+            "Master of Human Resource Management (MHRM)",
+            "Master of Science in Organizational Development (MSOD)",
+            "Master of Science in Industrial/Organizational Psychology (MSIOP)",
+            "Master of Arts in Human Resource Development (MA HRD)",
+            "Master of Arts in Industrial Relations (MA IR)",
+            "Master of Management (MM)",
+            "Master of Industrial and Labor Relations (MILR)"
+        ]
+        
+    },
+    {
+        "title": "Bachelor of Science in Management (BSc Management)",
+        "higher_education_degree": [
+            "Master of Business Administration (MBA)",
+            "Master of Management (MM)",
+            "Master of Science in Management (MSM)",
+            "Master of Science in Organizational Leadership (MSOL)",
+            "Master of Human Resource Management (MHRM)",
+            "Master of Science in Project Management (MSPM)",
+            "Master of Public Administration (MPA)",
+            "Master of International Business (MIB)",
+            "Master of Science in Finance (MSF)",
+            "Master of Marketing (MMkt)",
+            "Master of Science in Accounting (MSA)",
+            "Master of Economics (MEcon)",
+            "Master of Science in Entrepreneurship (MSE)",
+            "Master of Science in Information Systems (MSIS)"
+        ]
+        
+    },
+    {
+        "title": "Bachelor of Science in International Business (BSc International Business)",
+        "higher_education_degree": [
+            "Master of Business Administration (MBA)",
+            "Master of Science in International Business (MSIB)",
+            "Master of International Affairs (MIA)",
+            "Master of Arts in Global Business (MAGB)",
+            "Master of Commerce (MCom)",
+            "Master of Science in Management (MSM)",
+            "Master of Global Management (MGM)",
+            "Master of Science in Global Business (MSGB)",
+            "Master of International Business Administration (MIBA)",
+            "Master of Science in Business Administration (MSBA)",
+            "Master of Science in Business Management (MSBM)"
+        ]
+        
+    },
+    {
+        "title": "Bachelor of Science in Supply Chain Management (BSc SCM)",
+        "higher_education_degree":[
+            "Master of Business Administration (MBA)",
+            "Master of Science in Supply Chain Management (MSc SCM)",
+            "Master of Science in Operations Management (MSOM)",
+            "Master of Science in Logistics and Transportation Management (MSLTM)",
+            "Master of Engineering in Logistics (MEng Logistics)",
+            "Master of Arts in Organizational Leadership (MA Organizational Leadership)"
+        ]
+        
+    },
+    {
+        "title": "Bachelor of Science in Entrepreneurship (BSc Entrepreneurship)",
+        "higher_education_degree": [
+            "Master of Business Administration (MBA)",
+            "Master of Science in Entrepreneurship (MSc Entrepreneurship)",
+            "Master of Management (MM)",
+            "Master of Finance (MFin)",
+            "Master of Marketing (MMkt)",
+            "Master of Accounting (MAcc)",
+            "Master of Human Resource Management (MHRM)",
+            "Master of International Business (MIB)",
+            "Master of Supply Chain Management (MSCM)",
+            "Master of Innovation and Entrepreneurship (MIE)",
+            "Master of Economics (MSc Economics)",
+            "Master of Project Management (MPM)",
+            "Master of Science in Business Analytics (MSBA)",
+            "Master of Science in Information Systems (MSIS)",
+            "Master of Science in Operations Management (MSOM)"
+        ]
+        
+    },
+    {
+        "title": "Bachelor of Arts in Business Administration (BA Business Administration)",
+        "higher_education_degree": [
+            "Master of Business Administration (MBA)",
+            "Master of Science in Management (MSM)",
+            "Master of Science in Marketing (MS Marketing)",
+            "Master of Science in Finance (MS Finance)",
+            "Master of Science in Accounting (MS Accounting)",
+            "Master of Human Resource Management (MHRM)",
+            "Master of International Business (MIB)",
+            "Master of Management Information Systems (MMIS)",
+            "Master of Supply Chain Management (MSCM)",
+            "Master of Entrepreneurship (MEnt)",
+            "Master of Commerce (MCom)",
+            "Master of Economics (MA Economics)",
+            "Master of Public Administration (MPA)",
+            "Master of Health Administration (MHA)",
+            "Master of Public Health (MPH)"
+        ]
+        
+    },
+    {
+        "title": "Bachelor of Arts in Economics (BA Economics)",
+        "higher_education_degree": [
+            "Master of Business Administration (MBA)",
+            "Master of Science in Economics (MSc Economics)",
+            "Master of Arts in Economics (MA Economics)",
+            "Master of Financial Economics (MFE)",
+            "Master of Public Policy (MPP)",
+            "Master of Public Administration (MPA)",
+            "Master of International Affairs (MIA)",
+            "Master of Applied Economics (MAE)",
+            "Master of Development Economics (MDE)",
+            "Master of Econometrics (MEc)",
+            "Master of Economic Policy (MEP)",
+            "Master of Economic Development (MED)",
+            "Master of Economics and Finance (MEF)",
+            "Master of Health Economics (MHE)",
+            "Master of Economic Analysis (MEA)",
+            "Master of Arts in International Economics (MA International Economics)"
+        ]
+        
+    },
+    {
+        "title": "Bachelor of Arts in Marketing (BA Marketing)",
+        "higher_education_degree": [
+            "Master of Business Administration (MBA)",
+            "Master of Science in Marketing (MS Marketing)",
+            "Master of Arts in Marketing Management (MAMM)",
+            "Master of Arts in Advertising (MA Advertising)",
+            "Master of Science in Digital Marketing (MS Digital Marketing)",
+            "Master of Science in Brand Management (MS Brand Management)",
+            "Master of International Marketing (MIM)",
+            "Master of Marketing Research (MMR)",
+            "Master of Strategic Marketing (MSM)"
+        ]
+        
+    },
+    {
+        "title": "Bachelor of Arts in Finance (BA Finance)",
+        "higher_education_degree": [
+            "Master of Business Administration (MBA)",
+            "Master of Finance (MFin)",
+            "Master of Science in Finance (MSF)",
+            "Master of Financial Engineering (MFE)",
+            "Master of Accounting (MAcc)",
+            "Master of Financial Analysis (MFA)",
+            "Master of Commerce (MCom)",
+            "Master of Economics (MEcon)",
+            "Master of Quantitative Finance (MQF)",
+            "Master of Applied Finance (MAFin)"
+        ]
+        
+    },
+    {
+        "title": "Bachelor of Arts in Accounting (BA Accounting)",
+        "higher_education_degree": [
+            "Master of Accountancy (MAcc)",
+            "Master of Business Administration (MBA)",
+            "Master of Science in Accounting (MSA)",
+            "Master of Finance (MFin)",
+            "Master of Science in Taxation (MST)",
+            "Master of Science in Forensic Accounting (MSFA)",
+            "Master of Professional Accountancy (MPA)",
+            "Master of Management Accounting (MMA)",
+            "Master of Accounting and Financial Management (MAFM)",
+            "Master of Science in Accounting and Information Analysis (MSAIA)"
+        ]
+        
+    },
+    {
+        "title": "Bachelor of Arts in Management (BA Management)",
+        "higher_education_degree": [
+            "Master of Business Administration (MBA)",
+            "Master of Science in Management (MSM)",
+            "Master of Management (MM)",
+            "Master of Arts in Management (MA Management)",
+            "Master of Management Studies (MMS)",
+            "Master of Commerce (MCom)",
+            "Master of Science in Organizational Leadership (MSOL)",
+            "Master of Human Resource Management (MHRM)",
+            "Master of International Business (MIB)",
+            "Master of Science in Marketing (MS Marketing)",
+            "Master of Science in Finance (MS Finance)",
+            "Master of Project Management (MPM)",
+            "Master of Science in Supply Chain Management (MS SCM)",
+            "Master of Public Administration (MPA)",
+            "Master of Health Administration (MHA)",
+            "Master of Public Health (MPH)"
+        ]
+        
+    },
+    {
+        "title": "Bachelor of Arts in Human Resource Management (BA HRM)",
+        "higher_education_degree": [
+            "Master of Human Resource Management (MHRM)",
+            "Master of Business Administration (MBA)",
+            "Master of Arts in Organizational Psychology (MA Organizational Psychology)",
+            "Master of Science in Industrial/Organizational Psychology (MS I/O Psychology)",
+            "Master of Science in Human Resource Development (MS HRD)",
+            "Master of Science in Human Resource Management (MS HRM)",
+            "Master of Science in Labor Relations and Human Resources (MS LHR)",
+            "Master of Public Administration (MPA)",
+            "Master of Arts in Public Policy (MPP)",
+            "Master of Science in Management (MSM)",
+            "Master of Arts in Organizational Leadership (MA Organizational Leadership)",
+            "Master of Science in Organizational Development (MS OD)",
+            "Master of Science in Employment Relations (MS ER)",
+            "Master of Arts in Human Services Administration (MA HSA)",
+            "Master of Industrial and Labor Relations (MILR)",
+            "Master of Global Human Resources (MGHR)",
+            "Master of Science in Leadership and Human Resource Development (MS LHRD)",
+            "Master of Science in Leadership and Organizational Development (MS LOD)",
+            "Master of Science in Human Capital Management (MS HCM)",
+            "Master of Science in Workforce Development (MS WD)"
+        ]
+        
+    },
+    {
+        "title": "Bachelor of Arts in International Business (BA International Business)",
+        "higher_education_degree": [
+            "Master of Business Administration (MBA)",
+            "Master of Science in International Business (MSIB)",
+            "Master of International Business (MIB)",
+            "Master of Arts in International Affairs (MAIA)",
+            "Master of Arts in Global Business (MAGB)",
+            "Master of International Management (MIM)",
+            "Master of International Studies (MIS)",
+            "Master of Arts in International Relations (MAIR)",
+            "Master of Arts in Diplomacy and International Relations (MADIR)",
+            "Master of Arts in International Economics (MAIE)",
+            "Master of International Business and Management (MIBM)"
+        ]
+        
+    },
+    {
+        "title": "Bachelor of Arts in Supply Chain Management (BA SCM)",
+        "higher_education_degree": [
+            "Master of Business Administration (MBA)",
+            "Master of Supply Chain Management (MSCM)",
+            "Master of Science in Logistics and Supply Chain Management (MSLSCM)",
+            "Master of Science in Operations Management (MSOM)",
+            "Master of Science in Business Analytics (MSBA)",
+            "Master of Science in Industrial Engineering (MSIE)",
+            "Master of Science in Transportation and Logistics (MSTL)",
+            "Master of Arts in Organizational Leadership (MAOL)",
+            "Master of Science in Management (MSM)",
+            "Master of International Business (MIB)"
+        ]
+        
+    },
+    {
+        "title": "Bachelor of Arts in Entrepreneurship (BA Entrepreneurship)",
+        "higher_education_degree": [
+            "Master of Business Administration (MBA)",
+            "Master of Science in Entrepreneurship (MSc Entrepreneurship)",
+            "Master of Arts in Entrepreneurship (MA Entrepreneurship)",
+            "Master of Management (MM)",
+            "Master of Science in Innovation Management (MSc Innovation Management)",
+            "Master of Arts in Innovation and Entrepreneurship (MA Innovation and Entrepreneurship)"
+        ]
+        
+    },
+    {
+        "title": "Bachelor of Science in Hospitality Management (BSc Hospitality Management)",
+        "higher_education_degree": [
+            "Master of Business Administration (MBA)",
+            "Master of Science in Hospitality Management (MSHM)",
+            "Master of Tourism Administration (MTA)",
+            "Master of Management in Hospitality (MMH)",
+            "Master of International Hospitality Management (MIHM)",
+            "Master of Hotel Administration (MHA)",
+            "Master of Public Health (MPH)"
+        ]
+        
+    },
+    {
+        "title": "Bachelor of Science in Tourism Management (BSc Tourism Management)",
+        "higher_education_degree": [
+            "Master of Tourism Administration (MTA)",
+            "Master of Tourism Management (MTM)",
+            "Master of Business Administration (MBA) in Tourism Management",
+            "Master of Science in Hospitality and Tourism Management",
+            "Master of Arts in Tourism Studies",
+            "Master of Science in Tourism and Travel Management",
+            "Master of Management in Hospitality (MMH)",
+            "Master of International Tourism and Hotel Management (MITHM)"
+        ]
+        
+    },
+    {
+        "title": "Bachelor of Science in Information Technology (BSc IT)",
+        "higher_education_degree": [
+            "Master of Science in Information Technology (MSIT)",
+            "Master of Science in Computer Science (MSCS)",
+            "Master of Science in Software Engineering (MSSE)",
+            "Master of Science in Information Systems (MSIS)",
+            "Master of Business Administration (MBA) with a concentration in Information Technology Management",
+            "Master of Information Management (MIM)",
+            "Master of Technology (M.Tech) in Information Technology",
+            "Master of Engineering (M.Eng) in Information Technology"
+        ]
+        
+    },
+    {
+        "title": "Bachelor of Science in Computer Science (BSc Computer Science)",
+        "higher_education_degree": [
+            "Master of Science in Computer Science (MSCS)",
+            "Master of Science in Information Technology (MSIT)",
+            "Master of Science in Software Engineering (MSSE)",
+            "Master of Science in Data Science (MSDS)",
+            "Master of Science in Artificial Intelligence (MSAI)",
+            "Master of Science in Cybersecurity (MSCS)",
+            "Master of Science in Computer Engineering (MSCE)",
+            "Master of Business Administration (MBA) with a specialization in Information Technology",
+            "Master of Information Systems (MIS)",
+            "Master of Science in Information Systems (MSIS)"
+        ]
+        
+    },
+    {
+        "title": "Bachelor of Arts in Public Administration (BA Public Administration)",
+        "higher_education_degree": [
+            "Master of Health Administration (MHA)",
+            "Master of Public Health (MPH)"
+        ]
+        
+    },
+    {
+        "title": "Bachelor of Arts in Social Sciences (BA Social Sciences)",
+        "higher_education_degree": [
+            "Master of Health Administration (MHA)",
+            "Master of Public Health (MPH)"
+        ]
+        
+    },
+    {
+        "title": "Bachelor of Arts in Political Science (BA Political Science)",
+        "higher_education_degree": [
+            "Master of Public Administration (MPA)",
+            "Master of Public Policy (MPP)",
+            "Master of International Affairs (MIA)",
+            "Master of Diplomacy (MD)",
+            "Master of International Relations (MIR)",
+            "Master of Political Science (MPS)",
+            "Master of Global Governance (MGG)",
+            "Master of Governance and Public Policy (MGPP)"
+        ]
+        
+    },
+    {
+        "title": "Bachelor of Arts in Sociology (BA Sociology)",
+        "higher_education_degree": [
+            "Master of Social Work (MSW)",
+            "Master of Sociology (MSoc)",
+            "Master of Public Administration (MPA)",
+            "Master of Public Policy (MPP)",
+            "Master of Health Administration (MHA)",
+            "Master of Public Health (MPH)"
+        ]
+        
+    },
+    {
+        "title": "Bachelor of Arts in Psychology (BA Psychology)",
+        "higher_education_degree": [
+            "Master of Health Administration (MHA)",
+            "Master of Public Health (MPH)"
+        ]
+        
+    },
+    {
+        "title": "Bachelor of Arts in Media and Communication Studies (BA Media and Communication Studies)",
+        "higher_education_degree": [
+            "Master of Arts in Communication Studies (MA Communication Studies)",
+            "Master of Arts in Media Studies (MA Media Studies)",
+            "Master of Arts in Journalism (MA Journalism)",
+            "Master of Arts in Advertising (MA Advertising)",
+            "Master of Arts in Public Relations (MA Public Relations)",
+            "Master of Science in Communication (MSc Communication)",
+            "Master of Science in Media and Communication (MSc Media and Communication)",
+            "Master of Science in Journalism (MSc Journalism)",
+            "Master of Science in Digital Media (MSc Digital Media)",
+            "Master of Fine Arts in Media Arts (MFA Media Arts)",
+            "Master of Business Administration in Media Management (MBA Media Management)"
+        ]
+        
+    },
+    {
+        "title": "Bachelor of Arts in Journalism (BA Journalism)",
+        "higher_education_degree": [
+            "Master of Journalism (MJ)",
+            "Master of Arts in Journalism (MA Journalism)",
+            "Master of Science in Journalism (MS Journalism)",
+            "Master of Communication (MComm)",
+            "Master of Arts in Communication (MA Communication)",
+            "Master of Science in Communication (MS Communication)",
+            "Master of Media Studies (MMS)",
+            "Master of Arts in Media Studies (MA Media Studies)",
+            "Master of Science in Media Studies (MS Media Studies)",
+            "Master of Public Relations (MPR)",
+            "Master of Arts in Public Relations (MA Public Relations)",
+            "Master of Science in Public Relations (MS Public Relations)",
+            "Master of Advertising (MAd)",
+            "Master of Arts in Advertising (MA Advertising)",
+            "Master of Science in Advertising (MS Advertising)",
+            "Master of Marketing (MMkt)",
+            "Master of Arts in Marketing (MA Marketing)",
+            "Master of Science in Marketing (MS Marketing)",
+            "Master of Digital Media (MDM)",
+            "Master of Arts in Digital Media (MA Digital Media)",
+            "Master of Science in Digital Media (MS Digital Media)",
+            "Master of Business Administration (MBA)",
+            "Master of Science in Business Administration (MSBA)",
+            "Master of Public Administration (MPA)",
+            "Master of Arts in Public Administration (MA Public Administration)",
+            "Master of Science in Public Administration (MS Public Administration)",
+            "Master of Public Policy (MPP)",
+            "Master of Arts in Public Policy (MA Public Policy)",
+            "Master of Science in Public Policy (MS Public Policy)",
+            "Master of Government Administration (MGA)",
+            "Master of Arts in Government Administration (MA Government Administration)",
+            "Master of Science in Government Administration (MS Government Administration)"
+        ]
+        
+    },
+    {
+        "title": "Bachelor of Arts in Advertising (BA Advertising)",
+        "higher_education_degree": [
+            "Master of Arts in Advertising (MA Advertising)",
+            "Master of Science in Marketing (MS Marketing)",
+            "Master of Business Administration (MBA)",
+            "Master of Fine Arts in Advertising (MFA Advertising)",
+            "Master of Science in Mass Communication (MS Mass Communication)",
+            "Master of Arts in Communication (MA Communication)",
+            "Master of Arts in Media Studies (MA Media Studies)",
+            "Master of Arts in Public Relations (MA Public Relations)",
+            "Master of Science in Digital Marketing (MS Digital Marketing)",
+            "Master of Science in Integrated Marketing Communications (MS IMC)"
+        ]
+        
+    },
+    {
+        "title": "Bachelor of Science in Software Engineering (BSSE)",
+        "higher_education_degree": [
+            "Master of Science in Computer Science (MSCS)",
+            "Master of Science in Software Engineering (MSSE)",
+            "Master of Science in Information Technology (MSIT)",
+            "Master of Science in Cybersecurity (MSC)",
+            "Master of Science in Data Science (MSDS)",
+            "Master of Science in Artificial Intelligence (MSAI)",
+            "Master of Science in Computer Engineering (MSCE)",
+            "Master of Science in Computer Systems Engineering (MSCSE)",
+            "Master of Science in Information Systems (MSIS)",
+            "Master of Science in Human-Computer Interaction (MSHCI)",
+            "Master of Business Administration (MBA)",
+            "Master of Science in Management Information Systems (MSMIS)",
+            "Master of Science in Engineering Management (MSEM)",
+            "Master of Science in Project Management (MSPM)",
+            "Master of Science in Technology Management (MSTM)",
+            "Master of Science in Software Development (MSSD)",
+            "Master of Science in Embedded Systems (MSES)",
+            "Master of Science in Mobile Computing (MSMC)",
+            "Master of Science in Game Development (MSGD)",
+            "Master of Science in Cloud Computing (MSCC)"
+        ]
+        
+    },
+    {
+        "title": "Bachelor of Science in Systems Engineering (BSysE)",
+        "higher_education_degree": [
+            "Master of Science in Systems Engineering (MSSE)",
+            "Master of Engineering in Systems Engineering (MEngSE)",
+            "Master of Business Administration (MBA) with a concentration in Systems Engineering",
+            "Master of Science in Industrial Engineering (MSIE)",
+            "Master of Science in Operations Research (MSOR)",
+            "Master of Science in Management Science (MSMS)"
+        ]
+        
+    },
+    {
+        "title": "Bachelor of Science in Industrial Engineering (BSIE)",
+        "higher_education_degree": [
+            "Master of Industrial Engineering (MIE)",
+            "Master of Engineering Management (MEM)",
+            "Master of Business Administration (MBA)",
+            "Master of Science in Operations Research (MSOR)",
+            "Master of Science in Supply Chain Management (MSSCM)",
+            "Master of Science in Manufacturing Engineering (MSME)",
+            "Master of Science in Quality Engineering (MSQE)",
+            "Master of Science in Project Management (MSPM)"
+        ]
+        
+    },
+    {
+        "title": "Bachelor of Science in Environmental Engineering (BSEnvE)",
+        "higher_education_degree": [
+            "Master of Environmental Engineering (MEnvE)",
+            "Master of Environmental Management (MEM)",
+            "Master of Science in Environmental Science (MSc Environmental Science)",
+            "Master of Science in Environmental Engineering (MSc Environmental Engineering)",
+            "Master of Science in Civil Engineering (MSCE) with a specialization in Environmental Engineering",
+            "Master of Science in Sustainable Development (MSSD)",
+            "Master of Public Health (MPH)",
+            "Master of Health Administration (MHA)"
+        ]
+        
+    },
+    {
+        "title": "Bachelor of Science in Petroleum Engineering (BSPE)",
+        "higher_education_degree": [
+            "Master of Science in Petroleum Engineering (MSPE)",
+            "Master of Engineering in Petroleum Engineering (MEngPE)",
+            "Master of Business Administration (MBA)",
+            "Master of Science in Energy Management (MSc Energy Management)",
+            "Master of Science in Geoscience",
+            "Master of Science in Chemical Engineering (MSChE)",
+            "Master of Science in Environmental Engineering (MSEnvE)",
+            "Master of Science in Reservoir Engineering",
+            "Master of Science in Drilling Engineering",
+            "Master of Science in Offshore Engineering",
+            "Master of Science in Subsurface Engineering",
+            "Master of Science in Oil and Gas Management",
+            "Master of Science in Energy Economics",
+            "Master of Science in Renewable Energy",
+            "Master of Science in Sustainable Energy",
+            "Master of Science in Energy Policy and Planning",
+            "Master of Science in Energy Systems",
+            "Master of Science in Engineering Management (MSEM)",
+            "Master of Science in Project Management (MSPM)"
+        ]
+        
+    },
+    {
+        "title": "Bachelor of Science in Mechatronics Engineering (BSMEchE)",
+        "higher_education_degree": [
+            "Master of Science in Mechatronics Engineering (MSME)",
+            "Master of Engineering in Mechatronics (MEM)",
+            "Master of Robotics Engineering (MRE)",
+            "Master of Automation and Control Engineering (MACE)",
+            "Master of Advanced Manufacturing Systems (MAMS)",
+            "Master of Industrial Robotics (MIR)",
+            "Master of Systems and Control Engineering (MSCE)"
+        ]
+        
+    },
+    {
+        "title": "Bachelor of Science in Biotechnology (BSBiotech)",
+        "higher_education_degree": [
+            "Master of Science in Biotechnology (MS Biotechnology)",
+            "Master of Science in Bioinformatics (MS Bioinformatics)",
+            "Master of Science in Molecular Biology (MS Molecular Biology)",
+            "Master of Science in Genetic Engineering (MS Genetic Engineering)",
+            "Master of Science in Biomedical Engineering (MS Biomedical Engineering)",
+            "Master of Science in Pharmaceutical Sciences (MS Pharmaceutical Sciences)",
+            "Master of Science in Biochemistry (MS Biochemistry)",
+            "Master of Science in Microbiology (MS Microbiology)",
+            "Master of Science in Immunology (MS Immunology)",
+            "Master of Science in Clinical Research (MS Clinical Research)"
+        ]
+        
+    },
+    {
+        "title": "Bachelor of Science in Agricultural Engineering (BSAgE)",
+        "higher_education_degree": [
+            "Master of Science in Agricultural Engineering (MSAgE)",
+            "Master of Science in Environmental Engineering (MSEnvE)",
+            "Master of Science in Agricultural Economics (MSAgEcon)",
+            "Master of Business Administration (MBA)",
+            "Master of Science in Food Science (MSFood)",
+            "Master of Science in Soil Science (MSSoil)",
+            "Master of Science in Agronomy (MSAgronomy)",
+            "Master of Science in Horticulture (MSHort)",
+            "Master of Science in Plant Pathology (MSPath)",
+            "Master of Science in Entomology (MSEnto)"
+        ]
+        
+    },
+    {
+        "title": "Bachelor of Science in Textile Engineering (BSTExtE)",
+        "higher_education_degree": [
+            "Master of Science in Textile Engineering (MSTExtE)",
+            "Master of Science in Materials Science and Engineering (MSMSE)",
+            "Master of Science in Polymer Engineering (MSPE)",
+            "Master of Science in Textile Chemistry (MSTC)",
+            "Master of Science in Fiber Science (MSFS)",
+            "Master of Science in Textile Design (MSTD)",
+            "Master of Science in Technical Textiles (MSTT)",
+            "Master of Engineering in Textile Engineering (METExtE)",
+            "Master of Business Administration (MBA) with a specialization in Textile Management",
+            "Master of Technology in Textile Engineering (MTech Textile Engineering)",
+            "Master of Arts in Fashion Design (MA Fashion Design)",
+            "Master of Arts in Textile Art (MA Textile Art)",
+            "Master of Arts in Textile Conservation (MA Textile Conservation)"
+        ]
+        
+    },
+    {
+        "title": "Bachelor of Science in Telecommunication Engineering (BSTE)",
+        "higher_education_degree": [
+            "Master of Science in Telecommunication Engineering (MSTE)",
+            "Master of Science in Electrical Engineering (MSEE)",
+            "Master of Science in Computer Engineering (MSCE)",
+            "Master of Science in Information Technology (MSIT)",
+            "Master of Science in Network Engineering (MSNE)",
+            "Master of Science in Wireless Communication (MSWC)",
+            "Master of Science in Signal Processing (MSSP)",
+            "Master of Science in Digital Communication (MSDC)",
+            "Master of Science in Data Communication (MSDC)",
+            "Master of Science in Optical Communication (MSOC)",
+            "Master of Science in Telecommunication Systems (MSTS)"
+        ]
+        
+    },
+    {
+        "title": "Bachelor of Science in Chemical Engineering (BSCHE)",
+        "higher_education_degree": [
+            "Master of Science in Chemical Engineering (MSChE)",
+            "Master of Engineering in Chemical Engineering (MEngChE)",
+            "Master of Science in Environmental Engineering (MSEnvE)",
+            "Master of Science in Petroleum Engineering (MSPE)",
+            "Master of Science in Materials Science and Engineering (MSMSE)",
+            "Master of Science in Biochemical Engineering (MSBioE)",
+            "Master of Science in Biomedical Engineering (MSBME)",
+            "Master of Science in Pharmaceutical Engineering (MSPharmE)"
+        ]
+        
+    },
+    {
+        "title": "Bachelor of Science in Bioinformatics (BSBioinfo)",
+        "higher_education_degree": [
+            "Master of Science in Bioinformatics (MS Bioinformatics)",
+            "Master of Science in Computational Biology (MSCB)",
+            "Master of Science in Biotechnology (MS Biotechnology)",
+            "Master of Science in Genomics and Bioinformatics (MSGB)",
+            "Master of Science in Health Informatics (MSHI)",
+            "Master of Science in Medical Informatics (MSMI)",
+            "Master of Science in Data Science and Bioinformatics (MSDSB)"
+        ]
+        
+    },
+        {
+            "title": "Bachelor of Science in Physics (BSc Physics)",
+            "higher_education_degree": [
+                "Master of Science in Physics (MSc Physics)",
+                "Master of Science in Astrophysics (MSc Astrophysics)",
+                "Master of Science in Geophysics (MSc Geophysics)",
+                "Master of Science in Engineering Physics (MSc Engineering Physics)",
+                "Master of Science in Applied Physics (MSc Applied Physics)",
+                "Master of Science in Materials Science (MSc Materials Science)",
+                "Master of Science in Nanotechnology (MSc Nanotechnology)",
+                "Master of Science in Medical Physics (MSc Medical Physics)",
+                "Master of Science in Environmental Physics (MSc Environmental Physics)",
+                "Master of Science in Nuclear Physics (MSc Nuclear Physics)",
+                "Master of Science in Computational Physics (MSc Computational Physics)",
+                "Master of Science in Theoretical Physics (MSc Theoretical Physics)",
+                "Master of Science in Condensed Matter Physics (MSc Condensed Matter Physics)"
+            ]
+            
+        },
+        {
+            "title": "Bachelor of Science in Mathematics (BSc Mathematics)",
+            "higher_education_degree": [
+                "Master of Science in Mathematics (MS Mathematics)",
+                "Master of Science in Applied Mathematics (MS Applied Mathematics)",
+                "Master of Science in Statistics (MS Statistics)",
+                "Master of Science in Actuarial Science (MS Actuarial Science)",
+                "Master of Science in Operations Research (MS Operations Research)",
+                "Master of Science in Financial Mathematics (MS Financial Mathematics)",
+                "Master of Science in Mathematical Biology (MS Mathematical Biology)",
+                "Master of Science in Mathematical Finance (MS Mathematical Finance)",
+                "Master of Science in Data Science (MS Data Science)",
+                "Master of Science in Computational Mathematics (MS Computational Mathematics)",
+                "Master of Science in Industrial Mathematics (MS Industrial Mathematics)"
+            ]
+            
+        },
+        {
+            "title": "Bachelor of Science in Chemistry (BSc Chemistry)",
+            "higher_education_degree": [
+                "Master of Science in Chemistry (MSc Chemistry)",
+                "Master of Chemical Engineering (MChE)",
+                "Master of Pharmacy (MPharm)",
+                "Master of Environmental Science (MES)",
+                "Master of Materials Science (MMS)",
+                "Master of Analytical Chemistry (MAC)",
+                "Master of Biochemistry (MBC)",
+                "Master of Forensic Science (MFS)",
+                "Master of Nanotechnology (MNT)",
+                "Master of Polymer Science (MPS)",
+                "Master of Industrial Chemistry (MIC)",
+                "Master of Medicinal Chemistry (MMC)",
+                "Master of Food Science (MFS)",
+                "Master of Computational Chemistry (MCC)",
+                "Master of Chemical Technology (MCT)",
+                "Master of Science in Chemical Biology (MSCB)"
+            ]
+            
+        },
+        {
+            "title": "Bachelor of Science in Biology (BSc Biology)",
+            "higher_education_degree": [
+                "Master of Health Administration (MHA)",
+                "Master of Public Health (MPH)"
+            ]
+            
+        },
+        {
+            "title": "Bachelor of Science in Environmental Science (BSc Environmental Science)",
+            "higher_education_degree": [
+                "Master of Environmental Science (MES)",
+                "Master of Environmental Management (MEM)",
+                "Master of Environmental Policy (MEP)",
+                "Master of Science in Environmental Engineering (MSc Environmental Engineering)",
+                "Master of Science in Environmental Health (MSc Environmental Health)",
+                "Master of Science in Environmental Management (MSc Environmental Management)",
+                "Master of Science in Environmental Policy (MSc Environmental Policy)",
+                "Master of Science in Sustainable Development (MSc Sustainable Development)"
+            ]
+            
+        },
+        {
+            "title": "Bachelor of Science in Geology (BSc Geology)",
+            "higher_education_degree": [
+                "Master of Science in Geology (MSG)",
+                "Master of Science in Earth Sciences (MSc Earth Sciences)",
+                "Master of Science in Environmental Geology (MSc Environmental Geology)",
+                "Master of Science in Petroleum Geology (MSc Petroleum Geology)",
+                "Master of Science in Hydrogeology (MSc Hydrogeology)",
+                "Master of Science in Geophysics (MSc Geophysics)",
+                "Master of Science in Geochemistry (MSc Geochemistry)",
+                "Master of Science in Geomatics (MSc Geomatics)",
+                "Master of Science in Geological Engineering (MSc Geological Engineering)"
+            ]
+            
+        },
+        {
+            "title": "Bachelor of Science in Astronomy (BSc Astronomy)",
+            "higher_education_degree": [
+                "Master of Science in Astronomy (MS Astronomy)",
+                "Master of Science in Astrophysics (MS Astrophysics)",
+                "Master of Science in Space Science (MS Space Science)",
+                "Master of Science in Planetary Science (MS Planetary Science)",
+                "Master of Science in Cosmology (MS Cosmology)",
+                "Master of Science in Astrophysical Sciences and Technology (MS Astrophysical Sciences and Technology)"
+            ]
+            
+        },
+        {
+            "title": "Bachelor of Science in Neuroscience (BSc Neuroscience)",
+            "higher_education_degree": [
+                "Master of Neuroscience (MNS)",
+                "Master of Neurobiology (MNB)",
+                "Master of Neurology (MNeuro)",
+                "Master of Neuropsychology (MNP)",
+                "Master of Neuroimaging (MNI)",
+                "Master of Neuropharmacology (MNP)",
+                "Master of Neuroengineering (MNE)",
+                "Master of Neuroinformatics (MNI)",
+                "Master of Neurosurgery (MNSurg)",
+                "Master of Neurorehabilitation (MNR)",
+                "Master of Neuroethics (MNE)",
+                "Master of Neuromarketing (MNM)",
+                "Master of Neuroeducation (MNEdu)",
+                "Master of Neurotechnology (MNT)",
+                "Master of Neuroinformatics and Computational Neuroscience (MINC)",
+                "Master of Cognitive Neuroscience (MCogNeuro)",
+                "Master of Behavioral Neuroscience (MBehNeuro)"
+            ]
+            
+        },
+        {
+            "title": "Bachelor of Science in Cognitive Science (BSc Cognitive Science)",
+            "higher_education_degree":[
+                "Master of Cognitive Science (MCS)",
+                "Master of Psychology (MPsych)",
+                "Master of Human-Computer Interaction (MHCI)",
+                "Master of Artificial Intelligence (MAI)",
+                "Master of Neuroscience (MNeuro)",
+                "Master of Computational Linguistics (MCL)",
+                "Master of Cognitive Neuroscience (MCN)",
+                "Master of Data Science (MDS)",
+                "Master of Human Factors and Ergonomics (MHFE)",
+                "Master of Linguistics (MLing)"
+            ]
+            
+        },
+        {
+            "title": "Bachelor of Arts in Philosophy (BA Philosophy)",
+            "higher_education_degree":[
+                "Master of Arts in Philosophy (MA Philosophy)",
+                "Master of Fine Arts (MFA)",
+                "Master of Education (MEd)",
+                "Master of Social Work (MSW)",
+                "Master of Laws (LLM)",
+                "Master of Journalism (MJ)",
+                "Master of Mass Communication (MMC)",
+                "Master of Public Health (MPH)",
+                "Master of Health Administration (MHA)",
+                "Master of Nutrition and Dietetics (MND)",
+                "Master of Pharmacy (MPharm)",
+                "Master of Medicine (MMed)",
+                "Master of Surgery (MS)",
+                "Master of Dental Surgery (MDS)",
+                "Master of Veterinary Science (MVSc)",
+                "Master of Occupational Therapy (MOT)",
+                "Master of Physiotherapy (MPT)",
+                "Master of Technology (MTech)",
+                "Master of Ayurvedic Medicine and Surgery (MAMS)",
+                "Master of Homeopathic Medicine and Surgery (MHMS)",
+                "Master of Unani Medicine and Surgery (MUMS)",
+                "Master of Siddha Medicine and Surgery (MSMS)"
+            ]
+            
+        },
+        {
+            "title": "Bachelor of Arts in Linguistics (BA Linguistics)",
+            "higher_education_degree": [
+                "Master of Arts in Linguistics (MA Linguistics)",
+                "Master of Science in Linguistics (MS Linguistics)",
+                "Master of Education in Applied Linguistics (MEd Applied Linguistics)",
+                "Master of Applied Linguistics and TESOL (Teaching English to Speakers of Other Languages)",
+                "Master of Arts in Second Language Acquisition (MA SLA)",
+                "Master of Arts in Computational Linguistics (MA Computational Linguistics)",
+                "Master of Arts in Psycholinguistics (MA Psycholinguistics)",
+                "Master of Arts in Sociolinguistics (MA Sociolinguistics)",
+                "Master of Arts in Language Teaching (MA Language Teaching)",
+                "Master of Arts in Speech-Language Pathology (MA SLP)",
+                "Master of Arts in Clinical Linguistics (MA Clinical Linguistics)",
+                "Master of Science in Speech and Language Processing (MS Speech and Language Processing)",
+                "Master of Science in Language and Communication (MS Language and Communication)",
+                "Master of Science in Natural Language Processing (MS NLP)"
+            ]
+            
+        },
+        {
+            "title": "Bachelor of Arts in History (BA History)",
+            "higher_education_degree": [
+                "Master of Arts in History (MA History)",
+                "Master of Arts in Archaeology (MA Archaeology)",
+                "Master of Arts in Museum Studies (MA Museum Studies)",
+                "Master of Arts in Cultural Heritage Management (MA Cultural Heritage Management)",
+                "Master of Arts in Historical Preservation (MA Historical Preservation)",
+                "Master of Arts in Public History (MA Public History)",
+                "Master of Arts in Heritage Studies (MA Heritage Studies)"
+            ]
+            
+        },
+        {
+            "title": "Bachelor of Arts in Archaeology (BA Archaeology)",
+            "higher_education_degree": [
+                "Master of Arts in Anthropology (MA Anthropology)",
+                "Master of Arts in Archaeology (MA Archaeology)",
+                "Master of Arts in History (MA History)",
+                "Master of Arts in Museum Studies (MA Museum Studies)",
+                "Master of Arts in Cultural Heritage Management (MA Cultural Heritage Management)",
+                "Master of Arts in Conservation Studies (MA Conservation Studies)",
+                "Master of Arts in Classical Archaeology (MA Classical Archaeology)",
+                "Master of Arts in Biblical Archaeology (MA Biblical Archaeology)",
+                "Master of Arts in Heritage Studies (MA Heritage Studies)",
+                "Master of Arts in Ancient History (MA Ancient History)",
+                "Master of Arts in Near Eastern Archaeology (MA Near Eastern Archaeology)",
+                "Master of Arts in Maritime Archaeology (MA Maritime Archaeology)"
+            ]
+            
+        },
+        {
+            "title": "Bachelor of Arts in Anthropology (BA Anthropology)",
+            "higher_education_degree": [
+                "Master of Anthropology (MA Anthropology)",
+                "Master of Sociology (MS Sociology)",
+                "Master of Social Work (MSW)",
+                "Master of Public Health (MPH)",
+                "Master of Arts in Public Administration (MPA)",
+                "Master of Arts in International Relations (MA International Relations)",
+                "Master of Arts in Development Studies (MA Development Studies)",
+                "Master of Arts in Peace and Conflict Studies (MA Peace and Conflict Studies)",
+                "Master of Arts in Global Studies (MA Global Studies)",
+                "Master of Arts in Diplomacy (MA Diplomacy)",
+                "Master of Arts in Security Studies (MA Security Studies)",
+                "Master of Arts in Political Studies (MA Political Studies)",
+                "Master of Arts in Governance Studies (MA Governance Studies)",
+                "Master of Arts in Public Policy (MA Public Policy)",
+                "Master of Arts in Legal Studies (MA Legal Studies)",
+                "Master of Arts in Criminal Justice (MA Criminal Justice)",
+                "Master of Arts in Social Work (MSW)",
+                "Master of Arts in Community Development (MA Community Development)"
+            ]
+            
+        },
+        {
+            "title": "Bachelor of Arts in Sociology (BA Sociology)",
+            "higher_education_degree": [
+                "Master of Social Work (MSW)",
+                "Master of Arts in Sociology (MA Sociology)",
+                "Master of Science in Sociology (MS Sociology)",
+                "Master of Public Administration (MPA)",
+                "Master of Public Policy (MPP)",
+                "Master of International Development (MID)",
+                "Master of Human Services (MHS)",
+                "Master of Health Administration (MHA)",
+                "Master of Public Health (MPH)"
+            ]
+            
+        },
+        {
+            "title": "Bachelor of Arts in Psychology (BA Psychology)",
+            "higher_education_degree": [
+                "Master of Psychology (MPsych)",
+                "Master of Science in Psychology (MSc Psychology)",
+                "Master of Arts in Counseling Psychology (MACP)",
+                "Master of Arts in Clinical Psychology (MACLP)",
+                "Master of Arts in Applied Psychology (MAAP)",
+                "Master of Social Work (MSW)",
+                "Master of Counseling (MCouns)",
+                "Master of Education in Counseling (MEd Counseling)",
+                "Master of Marriage and Family Therapy (MMFT)",
+                "Master of Mental Health Counseling (MMHC)",
+                "Master of Science in Mental Health Counseling (MSMHC)",
+                "Master of Science in Clinical Mental Health Counseling (MSCMHC)",
+                "Master of Science in School Counseling (MSSC)",
+                "Master of Arts in School Psychology (MASP)",
+                "Master of Arts in Forensic Psychology (MAFP)",
+                "Master of Arts in Industrial-Organizational Psychology (MAIOP)",
+                "Master of Arts in Experimental Psychology (MAEP)",
+                "Master of Science in Applied Behavior Analysis (MS ABA)",
+                "Master of Arts in Organizational Psychology (MAOP)",
+                "Master of Arts in Health Psychology (MAHP)",
+                "Master of Arts in Sport and Performance Psychology (MASPP)"
+            ]
+            
+        },
+        {
+            "title": "Bachelor of Arts in Literature (BA Literature)",
+            "higher_education_degree": [
+                "Master of Arts in English Literature (MA English Literature)",
+                "Master of Arts in Linguistics and Language Studies (MA Linguistics and Language Studies)",
+                "Master of Arts in Comparative Literature (MA Comparative Literature)",
+                "Master of Arts in Creative Writing (MA Creative Writing)",
+                "Master of Fine Arts (MFA)",
+                "Master of Library and Information Science (MLIS)",
+                "Master of Journalism (MJ)",
+                "Master of Media and Communication Studies (MMCS)",
+                "Master of Public Relations (MPR)",
+                "Master of Publishing (MPub)"
+            ]
+            
+        },
+        {
+            "title": "Bachelor of Arts in Creative Writing (BA Creative Writing)",
+            "higher_education_degree": [
+                "Master of Fine Arts in Creative Writing (MFA Creative Writing)",
+                "Master of Arts in English (MA English)",
+                "Master of Arts in Literature (MA Literature)",
+                "Master of Arts in Writing (MA Writing)",
+                "Master of Arts in Journalism (MA Journalism)",
+                "Master of Arts in Communication (MA Communication)",
+                "Master of Arts in Media Studies (MA Media Studies)",
+                "Master of Arts in Publishing (MA Publishing)",
+                "Master of Arts in Professional Writing (MA Professional Writing)",
+                "Master of Arts in Technical Communication (MA Technical Communication)",
+                "Master of Arts in Rhetoric and Composition (MA Rhetoric and Composition)",
+                "Master of Fine Arts in Fiction Writing (MFA Fiction Writing)",
+                "Master of Fine Arts in Nonfiction Writing (MFA Nonfiction Writing)",
+                "Master of Fine Arts in Poetry Writing (MFA Poetry Writing)",
+                "Master of Fine Arts in Screenwriting (MFA Screenwriting)"
+            ]
+            
+        },
+        {
+            "title": "Bachelor of Arts in Theater (BA Theater)",
+            "higher_education_degree": [
+                "Master of Fine Arts in Theater (MFA Theater)",
+                "Master of Arts in Theater Studies (MA Theater Studies)",
+                "Master of Arts in Drama (MA Drama)",
+                "Master of Arts in Performance Studies (MA Performance Studies)",
+                "Master of Arts in Theater Education (MA Theater Education)",
+                "Master of Arts in Directing (MA Directing)",
+                "Master of Arts in Playwriting (MA Playwriting)",
+                "Master of Arts in Acting (MA Acting)",
+                "Master of Arts in Stage Management (MA Stage Management)",
+                "Master of Arts in Theater History and Criticism (MA Theater History and Criticism)",
+                "Master of Arts in Theater Administration (MA Theater Administration)",
+                "Master of Arts in Design for Theater (MA Design for Theater)"
+            ]
+            
+        },
+        {
+            "title": "Bachelor of Arts in Film Studies (BA Film Studies)",
+            "higher_education_degree": [
+                "Master of Fine Arts in Film Production (MFA Film Production)",
+                "Master of Arts in Film and Television Studies (MA Film and Television Studies)",
+                "Master of Science in Film Production (MS Film Production)",
+                "Master of Arts in Screenwriting (MA Screenwriting)",
+                "Master of Fine Arts in Screenwriting (MFA Screenwriting)",
+                "Master of Fine Arts in Film Studies (MFA Film Studies)",
+                "Master of Arts in Cinema Studies (MA Cinema Studies)",
+                "Master of Arts in Media Studies (MA Media Studies)",
+                "Master of Arts in Visual Culture (MA Visual Culture)",
+                "Master of Arts in Film Theory and Criticism (MA Film Theory and Criticism)"
+            ]
+            
+        },
+        {
+            "title": "Bachelor of Arts in Music (BA Music)",
+            "higher_education_degree": [
+                "Master of Music (MM)",
+                "Master of Arts in Music (MA Music)",
+                "Master of Fine Arts in Music (MFA Music)",
+                "Master of Music Education (MME)",
+                "Master of Music Therapy (MMT)",
+                "Master of Arts in Music Therapy (MA Music Therapy)",
+                "Master of Arts in Musicology (MA Musicology)",
+                "Master of Music Technology (MMT)",
+                "Master of Music Composition (MMC)",
+                "Master of Music Performance (MMP)",
+                "Master of Musicology (MMus)",
+                "Master of Music Theory (MMT)",
+                "Master of Arts in Ethnomusicology (MA Ethnomusicology)",
+                "Master of Music Business (MMB)",
+                "Master of Music Production (MMP)",
+                "Master of Music Engineering (MME)",
+                "Master of Music and Worship (MMW)",
+                "Master of Music and Worship Studies (MMWS)"
+            ]
+            
+        },
+        {
+            "title": "Bachelor of Arts in Dance (BA Dance)",
+            "higher_education_degree": [
+                "Master of Fine Arts in Dance (MFA Dance)",
+                "Master of Arts in Dance Studies (MA Dance Studies)",
+                "Master of Arts in Choreography (MA Choreography)",
+                "Master of Arts in Dance Education (MA Dance Education)",
+                "Master of Arts in Dance Therapy (MA Dance Therapy)",
+                "Master of Arts in Dance Performance (MA Dance Performance)",
+                "Master of Arts in Dance Science (MA Dance Science)",
+                "Master of Arts in Dance History (MA Dance History)",
+                "Master of Arts in Dance Ethnology (MA Dance Ethnology)",
+                "Master of Arts in Dance Pedagogy (MA Dance Pedagogy)"
+            ]
+            
+        },
+        {
+            "title": "Bachelor of Fine Arts (BFA)",
+            "higher_education_degree": [
+                "Master of Fine Arts (MFA)",
+                "Master of Arts in Art History (MA Art History)",
+                "Master of Arts in Studio Art (MA Studio Art)",
+                "Master of Arts in Visual Arts (MA Visual Arts)",
+                "Master of Arts in Fine Arts (MA Fine Arts)",
+                "Master of Arts in Graphic Design (MA Graphic Design)",
+                "Master of Arts in Illustration (MA Illustration)",
+                "Master of Arts in Photography (MA Photography)",
+                "Master of Arts in Sculpture (MA Sculpture)",
+                "Master of Arts in Painting (MA Painting)",
+                "Master of Arts in Printmaking (MA Printmaking)",
+                "Master of Arts in Digital Arts (MA Digital Arts)",
+                "Master of Arts in Multimedia Arts (MA Multimedia Arts)",
+                "Master of Arts in Art Education (MA Art Education)",
+                "Master of Arts in Art Therapy (MA Art Therapy)",
+                "Master of Arts in Museum Studies (MA Museum Studies)",
+                "Master of Arts in Curatorial Studies (MA Curatorial Studies)",
+                "Master of Arts in Arts Management (MA Arts Management)",
+                "Master of Arts in Cultural Management (MA Cultural Management)"
+            ]
+            
+        },
+        {
+            "title": "Bachelor of Design (BDes)",
+            "higher_education_degree": [
+                "Master of Design (MDes)",
+                "Master of Fine Arts (MFA)",
+                "Master of Arts in Design (MAD)",
+                "Master of Arts in Visual Communication (MA Visual Communication)",
+                "Master of Arts in User Experience Design (MA UX Design)",
+                "Master of Science in Design (MS Design)"
+            ]
+            
+        },
+        {
+            "title": "Bachelor of Architecture (BArch)",
+            "higher_education_degree": [
+                "Master of Architecture (MArch)",
+                "Master of Urban Planning (MUP)",
+                "Master of Landscape Architecture (MLArch)",
+                "Master of Science in Architecture (MSArch)",
+                "Master of Construction Management (MCM)",
+                "Master of Real Estate Development (MRED)",
+                "Master of Sustainable Design (MSD)",
+                "Master of Interior Architecture (MIA)",
+                "Master of Design (MDes)",
+                "Master of Historic Preservation (MHP)",
+                "Master of Science in Civil Engineering (MSCE) with a focus on Architecture",
+                "Master of Arts in Architectural Studies (MAAS)"
+            ]
+            
+        },
+        {
+            "title": "Bachelor of Education (BEd)",
+            "higher_education_degree": [
+                "Master of Education (MEd)",
+                "Master of Arts in Teaching (MAT)",
+                "Master of Science in Education (MSEd)",
+                "Master of Arts in Education (MA Education)",
+                "Master of Arts in Curriculum and Instruction (MACI)",
+                "Master of Arts in Educational Leadership (MAEL)",
+                "Master of Arts in Special Education (MA Special Education)",
+                "Master of Arts in Counseling (MAC)",
+                "Master of Arts in School Counseling (MASC)",
+                "Master of Arts in Clinical Mental Health Counseling (MACMHC)",
+                "Master of Arts in Educational Psychology (MAEP)",
+                "Master of Arts in Higher Education Administration (MAHEA)",
+                "Master of Arts in Adult Education (MAAE)",
+                "Master of Arts in Online Teaching and Learning (MAOTL)",
+                "Master of Arts in Instructional Design and Technology (MAIDT)",
+                "Master of Arts in Early Childhood Education (MAECE)",
+                "Master of Arts in Secondary Education (MASE)",
+                "Master of Arts in Elementary Education (MAEE)",
+                "Master of Arts in Literacy Education (MALE)",
+                "Master of Arts in TESOL (MA TESOL)",
+                "Master of Arts in Bilingual Education (MABE)",
+                "Master of Arts in Gifted Education (MAGE)",
+                "Master of Arts in Educational Technology (MAET)",
+                "Master of Arts in STEM Education (MA STEM Education)",
+                "Master of Arts in Higher Education Leadership (MAHEL)",
+                "Master of Arts in International Education (MAIE)",
+                "Master of Arts in Language Education (MALE)",
+                "Master of Arts in Physical Education (MAPE)",
+                "Master of Arts in Music Education (MAME)",
+                "Master of Arts in Art Education (MAAE)",
+                "Master of Arts in Theatre Education (MATE)",
+                "Master of Arts in Dance Education (MADE)",
+                "Master of Arts in Educational Studies (MAES)",
+                "Master of Arts in History Education (MAHE)",
+                "Master of Arts in Social Studies Education (MASSE)",
+                "Master of Arts in Environmental Education (MAEE)",
+                "Master of Arts in Health Education (MAHE)",
+                "Master of Arts in Educational Policy (MAEP)",
+                "Master of Arts in Community Education (MACE)",
+                "Master of Arts in Global Education (MAGE)",
+                "Master of Arts in Peace Education (MAPE)",
+                "Master of Arts in Human Rights Education (MAHRE)",
+                "Master of Arts in Values Education (MAVE)",
+                "Master of Arts in Civic Education (MACE)",
+                "Master of Arts in Media Education (MAME)",
+                "Master of Arts in Family and Consumer Sciences Education (MAFCS)",
+                "Master of Arts in Industrial Education (MAIE)",
+                "Master of Arts in Business Education (MABE)",
+                "Master of Arts in Technical Education (MATE)",
+                "Master of Arts in Vocational Education (MAVE)",
+                "Master of Arts in Agricultural Education (MAAE)",
+                "Master of Arts in Engineering Education (MAEE)",
+                "Master of Arts in Health Sciences Education (MAHSE)",
+                "Master of Arts in Nursing Education (MANE)",
+                "Master of Arts in Library and Information Science (MALIS)",
+                "Master of Arts in Museum Education (MAME)",
+                "Master of Arts in Religious Education (MARE)",
+                "Master of Arts in Christian Education (MACE)",
+                "Master of Arts in Islamic Education (MAIE)",
+                "Master of Arts in Jewish Education (MAJE)",
+                "Master of Arts in Buddhist Education (MABE)",
+                "Master of Arts in Hindu Education (MAHE)",
+                "Master of Arts in Sikh Education (MASE)",
+                "Master of Arts in Taoist Education (MATE)",
+                "Master of Arts in Confucian Education (MACE)",
+                "Master of Arts in Shinto Education (MASE)",
+                "Master of Arts in Indigenous Education (MAIE)",
+                "Master of Arts in Traditional Education (MATE)",
+                "Master of Arts in Modern Education (MAME)",
+                "Master of Arts in Postmodern Education (MAPE)",
+                "Master of Arts in Critical Pedagogy (MACP)",
+                "Master of Arts in Transformative Education (MATE)",
+                "Master of Arts in Participatory Education (MAPE)",
+                "Master of Arts in Experiential Education (MAEE)",
+                "Master of Arts in Outdoor Education (MAOE)",
+                "Master of Arts in Adventure Education (MAAE)",
+                "Master of Arts in Service-Learning Education (MASLE)",
+                "Master of Arts in Social Justice Education (MASJE)",
+                "Master of Arts in Democratic Education (MADE)",
+                "Master of Arts in Montessori Education (MAME)",
+                "Master of Arts in Waldorf Education (MAWE)",
+                "Master of Arts in Reggio Emilia Education (MARE)",
+                "Master of Arts in Steiner Education (MASE)",
+                "Master of Arts in Democratic Free School Education (MADFSE)",
+                "Master of Arts in Progressive Education (MAPE)",
+                "Master of Arts in Integral Education (MAIE)",
+                "Master of Arts in Holistic Education (MAHE)",
+                "Master of Arts in Alternative Education (MAAE)",
+                "Master of Arts in Democratic Schooling (MADS)",
+                "Master of Arts in Free School Education (MAFSE)",
+                "Master of Arts in Independent School Education (MAISE)",
+                "Master of Arts in Charter School Education (MACHE)",
+                "Master of Arts in Parochial School Education (MAPSE)",
+                "Master of Arts in Private School Education (MAPrSE)",
+                "Master of Arts in Public School Education (MAPuSE)",
+                "Master of Arts in Magnet School Education (MAMSE)",
+                "Master of Arts in Virtual School Education (MAVSE)",
+                "Master of Arts in Online School Education (MAOSE)",
+                "Master of Arts in Blended Learning Education (MABLE)",
+                "Master of Arts in Remote Learning Education (MARLE)",
+                "Master of Arts in E-Learning Education (MAELE)",
+                "Master of Arts in Mobile Learning Education (MAMLE)",
+                "Master of Arts in Digital Learning Education (MADLE)",
+                "Master of Arts in Smart Learning Education (MASLE)",
+                "Master of Arts in Flexible Learning Education (MAFLE)",
+                "Master of Arts in Personalized Learning Education (MAPLE)",
+                "Master of Arts in Adaptive Learning Education (MAALE)",
+                "Master of Arts in Distance Education (MADE)",
+                "Master of Arts in Open Education (MAOE)",
+                "Master of Arts in Free Education (MAFE)",
+                "Master of Arts in Inclusive Education (MAIE)",
+                "Master of Arts in Integrated Education (MAINE)",
+                "Master of Arts in Interdisciplinary Education (MAIDE)",
+                "Master of Arts in Multidisciplinary Education (MAMDE)",
+                "Master of Arts in Transdisciplinary Education (MATDE)",
+                "Master of Arts in Cross-Cultural Education (MACE)",
+                "Master of Arts in Global Citizenship Education (MAGCE)"
+            ]
+            
+        },
+        {
+            "title": "Bachelor of Social Work (BSW)",
+            "higher_education_degree": [
+                "Master of Social Work (MSW)",
+                "Master of Public Health (MPH)",
+                "Master of Health Administration (MHA)",
+                "Master of Counseling Psychology (MCP)",
+                "Master of Marriage and Family Therapy (MFT)",
+                "Master of Clinical Social Work (MSW)",
+                "Master of Mental Health Counseling (MMHC)",
+                "Master of Rehabilitation Counseling (MRC)",
+                "Master of Social Welfare (MSW)",
+                "Master of Nonprofit Management (MNM)",
+                "Master of Human Services (MHS)"
+            ]
+            
+        },
+        {
+            "title": "Bachelor of Laws (LLB)",
+            "higher_education_degree": [
+                "Master of Laws (LLM)",
+                "Master of Business Administration (MBA)",
+                "Master of Public Policy (MPP)",
+                "Master of Public Administration (MPA)",
+                "Master of Legal Studies (MLS)",
+                "Master of Jurisprudence (MJ)",
+                "Master of Science in Law (MSL)",
+                "Master of Arts in Law and Diplomacy (MALD)",
+                "Master of Health Administration (MHA)",
+                "Master of Public Health (MPH)"
+            ]
+            
+        },
+        {
+            "title": "Bachelor of Journalism (BJ)",
+            "higher_education_degree": [
+                "Master of Journalism (MJ)",
+                "Master of Communication (MComm)",
+                "Master of Arts in Journalism (MA Journalism)",
+                "Master of Arts in Media Studies (MA Media Studies)",
+                "Master of Science in Journalism (MS Journalism)",
+                "Master of Science in Communication (MS Communication)",
+                "Master of Arts in Mass Communication (MA Mass Communication)",
+                "Master of Fine Arts in Journalism (MFA Journalism)",
+                "Master of Fine Arts in Media Production (MFA Media Production)",
+                "Master of Business Administration in Media Management (MBA Media Management)",
+                "Master of Public Relations (MPR)"
+            ]
+            
+        },
+        {
+            "title": "Bachelor of Mass Communication (BMC)",
+            "higher_education_degree": [
+                "Master of Arts in Mass Communication (MAMC)",
+                "Master of Science in Communication (MSc Communication)",
+                "Master of Journalism (MJ)",
+                "Master of Media Studies (MMS)",
+                "Master of Public Relations (MPR)",
+                "Master of Digital Media (MDM)",
+                "Master of Strategic Communication (MSC)",
+                "Master of Integrated Marketing Communication (MIMC)",
+                "Master of Corporate Communication (MCC)",
+                "Master of Advertising (MAd)",
+                "Master of Film Studies (MFS)",
+                "Master of Multimedia Journalism (MMJ)",
+                "Master of Visual Communication (MVC)"
+            ]
+            
+        },
+        {
+            "title": "Bachelor of Public Health (BPH)",
+            "higher_education_degree": [
+                "Master of Health Administration (MHA)",
+                "Master of Public Health (MPH)"
+            ]
+            
+        },
+        {
+            "title": "Bachelor of Nutrition and Dietetics (BND)",
+            "higher_education_degree": [
+                "Master of Nutrition and Dietetics (MND)",
+                "Master of Science in Nutrition (MSN)",
+                "Master of Public Health (MPH)",
+                "Master of Health Administration (MHA)"
+            ]
+            
+        },
+        {
+            "title": "Bachelor of Pharmacy (BPharm)",
+            "higher_education_degree": [
+                "Master of Pharmacy (MPharm)",
+                "Master of Science in Pharmaceutical Sciences (MSc Pharmaceutical Sciences)",
+                "Master of Science in Clinical Pharmacy (MSc Clinical Pharmacy)",
+                "Master of Science in Pharmacy Administration (MSc Pharmacy Administration)",
+                "Master of Pharmaceutical Sciences (MPS)",
+                "Master of Science in Pharmacology (MSc Pharmacology)"
+            ]
+            
+        },
+        {
+            "title": "Bachelor of Medicine and Bachelor of Surgery (MBBS)",
+            "higher_education_degree": [
+                "Master of Health Administration (MHA)",
+                "Master of Public Health (MPH)"
+            ]
+            
+        },
+        {
+            "title": "Bachelor of Dental Surgery (BDS)",
+            "higher_education_degree": [
+                "Master of Dental Surgery (MDS)",
+                "Master of Science in Dentistry (MSD)",
+                "Master of Public Health (MPH)",
+                "Master of Health Administration (MHA)",
+                "Master of Oral Medicine (MOM)",
+                "Master of Oral Pathology (MOP)",
+                "Master of Oral Surgery (MOS)",
+                "Master of Periodontics (MPerio)",
+                "Master of Orthodontics (MOrtho)",
+                "Master of Prosthodontics (MPros)",
+                "Master of Pediatric Dentistry (MPD)",
+                "Master of Community Dentistry (MCD)",
+                "Master of Endodontics (MEndo)"
+            ]
+            
+        },
+        {
+            "title": "Bachelor of Veterinary Science (BVSc)",
+            "higher_education_degree": [
+                "Master of Veterinary Science (MVSc)",
+                "Master of Public Health (MPH)",
+                "Master of Science in Veterinary Medicine (MScVM)",
+                "Master of Science in Animal Science (MSAS)",
+                "Master of Science in Biomedical Sciences (MSBS)"
+            ]
+            
+        },
+        {
+            "title": "Bachelor of Occupational Therapy (BOT)",
+            "higher_education_degree": [
+                "Master of Occupational Therapy (MOT)",
+                "Master of Science in Occupational Therapy (MSOT)",
+                "Master of Health Administration (MHA)",
+                "Master of Public Health (MPH)"
+            ]
+            
+        },
+        {
+            "title": "Bachelor of Physiotherapy (BPT)",
+            "higher_education_degree": [
+                "Master of Physiotherapy (MPT)",
+                "Master of Health Administration (MHA)",
+                "Master of Public Health (MPH)"
+            ]
+            
+        },
+        {
+            "title": "Bachelor of Technology (BTech)",
+            "higher_education_degree": [
+                "Master of Technology (MTech)",
+                "Master of Science in Engineering (MSE)",
+                "Master of Engineering (MEng)",
+                "Master of Business Administration (MBA)",
+                "Master of Science in Information Technology (MSIT)",
+                "Master of Science in Computer Science (MSCS)",
+                "Master of Science in Electrical Engineering (MSEE)",
+                "Master of Science in Mechanical Engineering (MSME)",
+                "Master of Science in Civil Engineering (MSCE)",
+                "Master of Science in Chemical Engineering (MSChE)",
+                "Master of Science in Aerospace Engineering (MSAE)",
+                "Master of Science in Biomedical Engineering (MSBME)",
+                "Master of Science in Industrial Engineering (MSIE)",
+                "Master of Science in Environmental Engineering (MSEnvE)",
+                "Master of Science in Petroleum Engineering (MSPE)",
+                "Master of Science in Systems Engineering (MSysE)",
+                "Master of Science in Telecommunication Engineering (MSTE)",
+                "Master of Science in Software Engineering (MSSE)",
+                "Master of Science in Bioinformatics (MSBioinfo)"
+            ]
+            
+        },
+        {
+            "title": "Bachelor of Ayurvedic Medicine and Surgery (BAMS)",
+            "higher_education_degree": [
+                "Master of Ayurvedic Medicine and Surgery (MAMS)",
+                "Master of Public Health (MPH)",
+                "Master of Health Administration (MHA)",
+                "Master of Science in Ayurveda (MSc Ayurveda)",
+                "Master of Surgery (MS)",
+                "Master of Medicine (MMed)",
+                "Master of Science in Herbal Medicine (MSc Herbal Medicine)"
+            ]
+            
+        },
+        {
+            "title": "Bachelor of Homeopathic Medicine and Surgery (BHMS)",
+            "higher_education_degree": [
+                "Master of Health Administration (MHA)",
+                "Master of Public Health (MPH)"
+            ]
+            
+        },
+        {
+            "title": "Bachelor of Unani Medicine and Surgery (BUMS)",
+            "higher_education_degree": [
+                "Master of Health Administration (MHA)",
+                "Master of Public Health (MPH)"
+            ]
+            
+        },
+        {
+            "title": "Bachelor of Siddha Medicine and Surgery (BSMS)",
+            "higher_education_degree":  [
+                "Master of Health Administration (MHA)",
+                "Master of Public Health (MPH)"
+            ]
+        },
+        {
+            "title": "Bachelor of Technology in Aerospace Engineering (B Tech Aerospace Engineering)",
+            "higher_education_degree": [null]
+        },
+        {
+            "title": "Bachelor of Technology in Biomedical Engineering (B Tech Biomedical Engineering)",
+            "higher_education_degree": [
+                "Master of Health Administration (MHA)",
+                "Master of Public Health (MPH)"
+            ]
+            
+        },
+        {
+            "title": "Bachelor of Technology in Chemical Engineering (B Tech Chemical Engineering)",
+            "higher_education_degree":[
+                "Master of Science in Chemical Engineering (MS Chemical Engineering)",
+                "Master of Engineering in Chemical Engineering (MEng Chemical Engineering)",
+                "Master of Technology in Chemical Engineering (MTech Chemical Engineering)",
+                "Master of Science in Process Engineering",
+                "Master of Science in Materials Science and Engineering",
+                "Master of Science in Petroleum Engineering",
+                "Master of Science in Environmental Engineering",
+                "Master of Science in Polymer Engineering",
+                "Master of Science in Biochemical Engineering",
+                "Master of Business Administration (MBA) with a specialization in Chemical Engineering Management",
+                "Master of Science in Sustainable Engineering",
+                "Master of Science in Nanotechnology",
+                "Master of Science in Food Engineering",
+                "Master of Science in Pharmaceutical Engineering",
+                "Master of Science in Bioprocess Engineering",
+                "Master of Science in Energy Engineering",
+                "Master of Science in Water Resources Engineering",
+                "Master of Science in Renewable Energy Engineering"
+            ]
+            
+            
+        },
+        {
+            "title": "Bachelor of Technology in Civil Engineering (B Tech Civil Engineering)",
+            "higher_education_degree": [
+                "Master of Science in Civil Engineering (MSCE)",
+                "Master of Engineering in Civil Engineering (MEngCE)",
+                "Master of Technology in Civil Engineering (MTech Civil Engineering)",
+                "Master of Civil Engineering (MCE)",
+                "Master of Construction Management (MCM)",
+                "Master of Structural Engineering (MSE)",
+                "Master of Transportation Engineering (MTE)",
+                "Master of Environmental Engineering (MEnvE)",
+                "Master of Geotechnical Engineering (MGE)",
+                "Master of Water Resources Engineering (MWRE)",
+                "Master of Urban Planning (MUP)",
+                "Master of Project Management (MPM)"
+            ]
+            
+        },
+        {
+            "title": "Bachelor of Technology in Computer Science and Engineering (B Tech Computer Science and Engineering)",
+            "higher_education_degree": [
+                "Master of Science in Computer Science (MSCS)",
+                "Master of Science in Computer Engineering (MSCE)",
+                "Master of Science in Software Engineering (MSSE)",
+                "Master of Science in Information Technology (MSIT)",
+                "Master of Science in Data Science (MSDS)",
+                "Master of Science in Artificial Intelligence (MSAI)",
+                "Master of Science in Cybersecurity (MSC)",
+                "Master of Engineering in Computer Science and Engineering (ME CSE)",
+                "Master of Engineering in Software Engineering (ME SE)",
+                "Master of Engineering in Information Technology (ME IT)",
+                "Master of Technology in Computer Science and Engineering (MTech CSE)",
+                "Master of Technology in Software Engineering (MTech SE)",
+                "Master of Technology in Information Technology (MTech IT)"
+            ]
+            
+        },
+        {
+            "title": "Bachelor of Technology in Electrical and Electronics Engineering (B Tech Electrical and Electronics Engineering)",
+            "higher_education_degree": [
+                "Master of Science in Electrical Engineering (MSEE)",
+                "Master of Engineering in Electrical Engineering (MEng Electrical Engineering)",
+                "Master of Science in Electronics Engineering (MSEE)",
+                "Master of Engineering in Electronics Engineering (MEng Electronics Engineering)",
+                "Master of Technology in Electrical Engineering (M Tech Electrical Engineering)",
+                "Master of Technology in Electronics Engineering (M Tech Electronics Engineering)",
+                "Master of Science in Renewable Energy Engineering (MS Renewable Energy Engineering)",
+                "Master of Engineering in Renewable Energy Engineering (MEng Renewable Energy Engineering)",
+                "Master of Science in Power Systems Engineering (MS Power Systems Engineering)",
+                "Master of Engineering in Power Systems Engineering (MEng Power Systems Engineering)",
+                "Master of Science in Control Systems Engineering (MS Control Systems Engineering)",
+                "Master of Engineering in Control Systems Engineering (MEng Control Systems Engineering)"
+            ]
+            
+        },
+        {
+            "title": "Bachelor of Technology in Electronics and Communication Engineering (B Tech Electronics and Communication Engineering)",
+            "higher_education_degree": [
+                "Master of Science in Electronics and Communication Engineering (MSc Electronics and Communication Engineering)",
+                "Master of Engineering in Electronics and Communication Engineering (ME Electronics and Communication Engineering)",
+                "Master of Technology in Electronics and Communication Engineering (M Tech Electronics and Communication Engineering)",
+                "Master of Science in Telecommunication Engineering (MSc Telecommunication Engineering)",
+                "Master of Engineering in Telecommunication Engineering (ME Telecommunication Engineering)",
+                "Master of Technology in Telecommunication Engineering (M Tech Telecommunication Engineering)",
+                "Master of Science in Signal Processing and Communication (MSc Signal Processing and Communication)",
+                "Master of Engineering in Signal Processing and Communication (ME Signal Processing and Communication)",
+                "Master of Technology in Signal Processing and Communication (M Tech Signal Processing and Communication)"
+            ]
+            
+        },
+        {
+            "title": "Bachelor of Technology in Information Technology (B Tech Information Technology)",
+            "higher_education_degree": [
+                "Master of Science in Information Technology (MSIT)",
+                "Master of Science in Computer Science (MSCS)",
+                "Master of Technology in Information Technology (MTech IT)",
+                "Master of Engineering in Information Technology (ME IT)",
+                "Master of Business Administration (MBA) with specialization in Information Technology",
+                "Master of Science in Data Science",
+                "Master of Science in Cybersecurity",
+                "Master of Science in Software Engineering",
+                "Master of Science in Information Systems",
+                "Master of Science in Artificial Intelligence",
+                "Master of Science in Cloud Computing"
+            ]
+            
+        },
+        {
+            "title": "Bachelor of Technology in Mechanical Engineering (B Tech Mechanical Engineering)",
+            "higher_education_degree": [null]
+        },
+        {
+            "title": "Bachelor of Arts in English Literature (BA English Literature)",
+            "higher_education_degree": [
+                "Master of Arts in English Literature (MA English Literature)",
+                "Master of Arts in Comparative Literature (MA Comparative Literature)",
+                "Master of Fine Arts in Creative Writing (MFA Creative Writing)",
+                "Master of Arts in Linguistics (MA Linguistics)",
+                "Master of Arts in Journalism (MA Journalism)",
+                "Master of Arts in Media Studies (MA Media Studies)",
+                "Master of Arts in Communication Studies (MA Communication Studies)",
+                "Master of Arts in Education (MA Education)",
+                "Master of Arts in Counseling Psychology (MA Counseling Psychology)",
+                "Master of Arts in Human Resource Management (MA HRM)",
+                "Master of Business Administration (MBA)",
+                "Master of Science in Information Technology (MS IT)",
+                "Master of Library and Information Science (MLIS)",
+                "Master of Public Administration (MPA)",
+                "Master of Social Work (MSW)",
+                "Master of International Relations (MIR)",
+                "Master of Arts in Public Policy (MAPP)",
+                "Master of Science in Environmental Studies (MS Environmental Studies)"
+            ]
+            
+        },
+        {
+            "title": "Bachelor of Arts in Linguistics and Language Studies (BA Linguistics and Language Studies)",
+            "higher_education_degree": [
+                "Master of Arts in Linguistics (MA Linguistics)",
+                "Master of Arts in Applied Linguistics (MA Applied Linguistics)",
+                "Master of Arts in TESOL (MA TESOL)",
+                "Master of Arts in Language Teaching (MA Language Teaching)",
+                "Master of Science in Computational Linguistics (MS Computational Linguistics)",
+                "Master of Science in Speech-Language Pathology (MS Speech-Language Pathology)",
+                "Master of Science in Communication Sciences and Disorders (MS Communication Sciences and Disorders)",
+                "Master of Science in Translation (MS Translation)",
+                "Master of Education in Language Education (MEd Language Education)"
+            ]
+            
+        },
+        {
+            "title": "Bachelor of Arts in French Studies (BA French Studies)",
+            "higher_education_degree": [
+                "Master of Arts in French Literature (MA French Literature)",
+                "Master of Arts in French Linguistics (MA French Linguistics)",
+                "Master of Arts in French Translation and Interpretation (MA French Translation and Interpretation)",
+                "Master of Arts in French Culture and Civilization (MA French Culture and Civilization)",
+                "Master of Arts in French History (MA French History)",
+                "Master of Arts in French Language Teaching (MA French Language Teaching)",
+                "Master of Arts in French Studies (MA French Studies)",
+                "Master of Education in French (MEd French)",
+                "Master of International Business with a focus on French (MIB French)",
+                "Master of Translation and Interpreting with a focus on French (MTI French)",
+                "Master of Arts in Comparative Literature with a focus on French (MA Comparative Literature - French)",
+                "Master of Arts in Linguistics with a focus on French (MA Linguistics - French)"
+            ]
+            
+        },
+        {
+            "title": "Bachelor of Arts in German Studies (BA German Studies)",
+            "higher_education_degree": [
+                "Master of Arts in German Studies (MA German Studies)",
+                "Master of Arts in Linguistics (MA Linguistics)",
+                "Master of Arts in Translation Studies (MA Translation Studies)",
+                "Master of Arts in Comparative Literature (MA Comparative Literature)",
+                "Master of Arts in Cultural Studies (MA Cultural Studies)",
+                "Master of Arts in European Studies (MA European Studies)",
+                "Master of Arts in International Relations (MA International Relations)",
+                "Master of Arts in Foreign Language Education (MA Foreign Language Education)",
+                "Master of Arts in Intercultural Communication (MA Intercultural Communication)",
+                "Master of Arts in Global Studies (MA Global Studies)",
+                "Master of Arts in Diplomacy (MA Diplomacy)",
+                "Master of Arts in Journalism (MA Journalism)",
+                "Master of Arts in Media Studies (MA Media Studies)",
+                "Master of Arts in Public Relations (MA Public Relations)",
+                "Master of Arts in Marketing (MA Marketing)",
+                "Master of Arts in Advertising (MA Advertising)",
+                "Master of Arts in Business Administration (MBA)",
+                "Master of Arts in Human Resource Management (MA HRM)",
+                "Master of Arts in Management (MA Management)",
+                "Master of Arts in International Business (MA International Business)",
+                "Master of Arts in Supply Chain Management (MA SCM)",
+                "Master of Arts in Entrepreneurship (MA Entrepreneurship)",
+                "Master of Arts in Economics (MA Economics)",
+                "Master of Arts in Political Science (MA Political Science)",
+                "Master of Arts in Sociology (MA Sociology)",
+                "Master of Arts in Psychology (MA Psychology)",
+                "Master of Arts in History (MA History)",
+                "Master of Arts in Archaeology (MA Archaeology)",
+                "Master of Arts in Anthropology (MA Anthropology)",
+                "Master of Arts in Philosophy (MA Philosophy)",
+                "Master of Arts in Literature (MA Literature)",
+                "Master of Arts in Creative Writing (MA Creative Writing)",
+                "Master of Fine Arts (MFA)",
+                "Master of Design (MDes)",
+                "Master of Education (MEd)",
+                "Master of Social Work (MSW)",
+                "Master of Laws (LLM)",
+                "Master of Journalism (MJ)",
+                "Master of Mass Communication (MMC)",
+                "Master of Public Health (MPH)",
+                "Master of Nutrition and Dietetics (MND)",
+                "Master of Pharmacy (MPharm)",
+                "Master of Medicine (MMed)",
+                "Master of Dental Surgery (MDS)",
+                "Master of Veterinary Science (MVSc)",
+                "Master of Occupational Therapy (MOT)",
+                "Master of Physiotherapy (MPT)",
+                "Master of Technology (MTech)",
+                "Master of Ayurvedic Medicine and Surgery (MAMS)",
+                "Master of Homeopathic Medicine and Surgery (MHMS)",
+                "Master of Unani Medicine and Surgery (MUMS)",
+                "Master of Siddha Medicine and Surgery (MSMS)",
+                "Master of Business Administration (MBA)",
+                "Master of Public Administration (MPA)"
+            ]
+            
+        },
+        {
+            "title": "Bachelor of Arts in Spanish Studies (BA Spanish Studies)",
+            "higher_education_degree": [
+                "Master of Arts in Spanish Language and Literature (MA Spanish Language and Literature)",
+                "Master of Arts in Hispanic Studies (MA Hispanic Studies)",
+                "Master of Arts in Translation and Interpreting (MA Translation and Interpreting)",
+                "Master of Arts in Linguistics (MA Linguistics)",
+                "Master of Education in Spanish Education (MEd Spanish Education)",
+                "Master of International Relations with a focus on Spanish-speaking regions (MIR Spanish)",
+                "Master of Business Administration with a focus on Spanish-speaking markets (MBA Spanish)"
+            ]
+            
+        },
+        {
+            "title": "Bachelor of Arts in Chinese Studies (BA Chinese Studies)",
+            "higher_education_degree": [
+                "Master of Arts in Chinese Studies (MA Chinese Studies)",
+                "Master of Arts in Asian Studies (MA Asian Studies)",
+                "Master of Arts in East Asian Studies (MA East Asian Studies)",
+                "Master of Arts in International Relations with a focus on China (MA International Relations - China)",
+                "Master of Arts in Linguistics (MA Linguistics)",
+                "Master of Arts in Translation and Interpretation (MA Translation and Interpretation)",
+                "Master of Arts in Comparative Literature (MA Comparative Literature)",
+                "Master of Arts in Cultural Studies (MA Cultural Studies)",
+                "Master of Arts in Global Studies (MA Global Studies)",
+                "Master of Arts in Diplomacy and International Relations (MA Diplomacy and International Relations)"
+            ]
+            
+        },
+        {
+            "title": "Bachelor of Arts in Japanese Studies (BA Japanese Studies)",
+            "higher_education_degree": [
+                "Master of Arts in Japanese Studies (MA Japanese Studies)",
+                "Master of Arts in East Asian Studies (MA East Asian Studies)",
+                "Master of Arts in International Relations with a focus on East Asia",
+                "Master of Arts in Linguistics with a focus on Japanese Language",
+                "Master of Arts in Comparative Literature with a focus on Japanese Literature",
+                "Master of Arts in Translation and Interpretation with a focus on Japanese",
+                "Master of Arts in Cultural Studies with a focus on Japanese Culture",
+                "Master of Arts in International Business with a focus on Japan",
+                "Master of Business Administration (MBA) with a focus on Japan",
+                "Master of Public Administration (MPA) with a focus on Japan",
+                "Master of International Affairs (MIA) with a focus on Japan",
+                "Master of Education (MEd) with a focus on Teaching Japanese as a Second Language",
+                "Master of Fine Arts (MFA) in Japanese Art and Design",
+                "Master of Science in Economics with a focus on Japanese Economy"
+            ]
+            
+        },
+        {
+            "title": "Bachelor of Arts in Italian Studies (BA Italian Studies)",
+            "higher_education_degree": [null]
+        },
+        {
+            "title": "Bachelor of Arts in Arabic Studies (BA Arabic Studies)",
+            "higher_education_degree": [
+                "Master of Arts in Arabic Language and Literature (MA Arabic Language and Literature)",
+                "Master of Arts in Middle Eastern Studies (MA Middle Eastern Studies)",
+                "Master of Arts in Islamic Studies (MA Islamic Studies)",
+                "Master of Arts in Translation and Interpretation (MA Translation and Interpretation)",
+                "Master of Arts in Intercultural Communication (MA Intercultural Communication)",
+                "Master of Arts in Linguistics (MA Linguistics)",
+                "Master of Arts in Comparative Literature (MA Comparative Literature)",
+                "Master of Arts in International Relations (MA International Relations)",
+                "Master of Arts in Diplomacy (MA Diplomacy)",
+                "Master of Arts in Political Science (MA Political Science)",
+                "Master of Arts in Global Studies (MA Global Studies)",
+                "Master of Arts in Religious Studies (MA Religious Studies)",
+                "Master of Arts in History (MA History)",
+                "Master of Arts in Anthropology (MA Anthropology)",
+                "Master of Arts in Sociology (MA Sociology)",
+                "Master of Library and Information Science (MLIS)",
+                "Master of Education (MEd)",
+                "Master of Social Work (MSW)",
+                "Master of Public Administration (MPA)",
+                "Master of International Development (MID)",
+                "Master of Business Administration (MBA)",
+                "Master of Science in Education (MSEd)"
+            ]
+            
+        },
+        {
+            "title": "Bachelor of Arts in Korean Studies (BA Korean Studies)",
+            "higher_education_degree": [
+                "Master of Arts in Korean Studies (MA Korean Studies)",
+                "Master of Arts in East Asian Studies (MA East Asian Studies)",
+                "Master of Arts in International Relations (MA International Relations) with a focus on East Asia",
+                "Master of Arts in Linguistics (MA Linguistics)",
+                "Master of Arts in Translation and Interpretation (MA Translation and Interpretation) with a focus on Korean",
+                "Master of Arts in Teaching Korean as a Foreign Language (MA TKFL)"
+            ]
+            
+        },
+        {
+            "title": "Bachelor of Arts in Russian Studies (BA Russian Studies)",
+            "higher_education_degree": [
+                "Master of Arts in Russian Language and Literature",
+                "Master of Arts in Slavic Studies",
+                "Master of Arts in International Relations with a focus on Russia",
+                "Master of Arts in Russian History",
+                "Master of Arts in Translation and Interpretation (Russian-English)",
+                "Master of Arts in Cultural Studies with a focus on Russian Culture",
+                "Master of Arts in Linguistics with a focus on Russian Language",
+                "Master of International Business with a focus on Russian Markets",
+                "Master of Public Policy with a focus on Russian Politics",
+                "Master of Diplomacy with a focus on Russian Diplomacy"
+            ]
+            
+        },
+        {
+            "title": "Bachelor of Arts in Portuguese Studies (BA Portuguese Studies)",
+            "higher_education_degree": [
+                "Master of Arts in Portuguese Studies (MA Portuguese Studies)",
+                "Master of Arts in Linguistics (MA Linguistics)",
+                "Master of Arts in Translation and Interpreting (MA Translation and Interpreting)",
+                "Master of Arts in Comparative Literature (MA Comparative Literature)",
+                "Master of Arts in Cultural Studies (MA Cultural Studies)",
+                "Master of Arts in International Relations (MA International Relations)",
+                "Master of Arts in Global Studies (MA Global Studies)",
+                "Master of Arts in Diplomacy (MA Diplomacy)",
+                "Master of Arts in Political Studies (MA Political Studies)",
+                "Master of Arts in Public Policy (MA Public Policy)",
+                "Master of Arts in Education (MA Education)",
+                "Master of Arts in Journalism (MA Journalism)",
+                "Master of Arts in Media Studies (MA Media Studies)",
+                "Master of Arts in Communication Studies (MA Communication Studies)",
+                "Master of Arts in Social Work (MA Social Work)",
+                "Master of Arts in Community Development (MA Community Development)"
+            ]
+            
+        },
+        {
+            "title": "Bachelor of Arts in Hindi Studies (BA Hindi Studies)",
+            "higher_education_degree": [
+                "Master of Arts in Hindi (MA Hindi)",
+                "Master of Arts in Linguistics (MA Linguistics)",
+                "Master of Arts in Translation Studies (MA Translation Studies)",
+                "Master of Arts in Comparative Literature (MA Comparative Literature)",
+                "Master of Arts in Indian Philosophy (MA Indian Philosophy)",
+                "Master of Arts in Indian History (MA Indian History)",
+                "Master of Arts in Cultural Studies (MA Cultural Studies)",
+                "Master of Arts in South Asian Studies (MA South Asian Studies)",
+                "Master of Arts in Education (MA Education)",
+                "Master of Arts in Journalism and Mass Communication (MA Journalism and Mass Communication)",
+                "Master of Arts in Public Administration (MA Public Administration)",
+                "Master of Arts in Political Science (MA Political Science)",
+                "Master of Arts in Sociology (MA Sociology)",
+                "Master of Arts in Anthropology (MA Anthropology)",
+                "Master of Arts in Psychology (MA Psychology)",
+                "Master of Arts in Social Work (MA Social Work)",
+                "Master of Arts in Linguistics and Language Studies (MA Linguistics and Language Studies)",
+                "Master of Arts in Film Studies (MA Film Studies)",
+                "Master of Arts in Media and Communication Studies (MA Media and Communication Studies)",
+                "Master of Arts in International Relations (MA International Relations)",
+                "Master of Arts in Diplomacy (MA Diplomacy)",
+                "Master of Arts in Conflict Resolution (MA Conflict Resolution)",
+                "Master of Arts in Gender Studies (MA Gender Studies)",
+                "Master of Arts in Development Studies (MA Development Studies)",
+                "Master of Arts in Peace Studies (MA Peace Studies)",
+                "Master of Arts in Human Rights (MA Human Rights)",
+                "Master of Arts in Global Studies (MA Global Studies)",
+                "Master of Arts in Linguistics and Applied Linguistics (MA Linguistics and Applied Linguistics)",
+                "Master of Arts in Creative Writing (MA Creative Writing)",
+                "Master of Fine Arts (MFA)",
+                "Master of Design (MDes)",
+                "Master of Business Administration (MBA)",
+                "Master of Commerce (MCom)",
+                "Master of Science in Linguistics (MSc Linguistics)",
+                "Master of Science in Psychology (MSc Psychology)",
+                "Master of Science in Sociology (MSc Sociology)",
+                "Master of Science in Anthropology (MSc Anthropology)",
+                "Master of Science in Social Work (MSc Social Work)",
+                "Master of Science in Counseling Psychology (MSc Counseling Psychology)",
+                "Master of Science in Mental Health Counseling (MSc Mental Health Counseling)",
+                "Master of Science in Family Therapy (MSc Family Therapy)",
+                "Master of Science in Community Counseling (MSc Community Counseling)",
+                "Master of Science in Educational Psychology (MSc Educational Psychology)",
+                "Master of Science in Developmental Psychology (MSc Developmental Psychology)",
+                "Master of Science in Clinical Psychology (MSc Clinical Psychology)",
+                "Master of Science in Industrial-Organizational Psychology (MSc Industrial-Organizational Psychology)",
+                "Master of Science in Media Psychology (MSc Media Psychology)",
+                "Master of Science in Marketing (MSc Marketing)",
+                "Master of Science in Advertising (MSc Advertising)",
+                "Master of Science in Public Relations (MSc Public Relations)",
+                "Master of Science in Corporate Communication (MSc Corporate Communication)",
+                "Master of Science in Digital Media Management (MSc Digital Media Management)",
+                "Master of Science in Journalism (MSc Journalism)",
+                "Master of Science in Media Management (MSc Media Management)",
+                "Master of Science in Film Production (MSc Film Production)",
+                "Master of Science in Television Production (MSc Television Production)",
+                "Master of Science in Screenwriting (MSc Screenwriting)",
+                "Master of Science in Publishing (MSc Publishing)",
+                "Master of Science in Education Leadership (MSc Education Leadership)",
+                "Master of Science in Educational Technology (MSc Educational Technology)",
+                "Master of Science in Educational Administration (MSc Educational Administration)",
+                "Master of Science in Curriculum and Instruction (MSc Curriculum and Instruction)",
+                "Master of Science in Special Education (MSc Special Education)",
+                "Master of Science in Early Childhood Education (MSc Early Childhood Education)",
+                "Master of Science in Higher Education Administration (MSc Higher Education Administration)",
+                "Master of Science in Student Affairs Administration (MSc Student Affairs Administration)",
+                "Master of Science in Adult Education (MSc Adult Education)",
+                "Master of Science in International Education (MSc International Education)",
+                "Master of Science in Environmental Studies (MSc Environmental Studies)",
+                "Master of Science in Sustainability (MSc Sustainability)",
+                "Master of Science in Natural Resource Management (MSc Natural Resource Management)",
+                "Master of Science in Environmental Policy (MSc Environmental Policy)",
+                "Master of Science in Environmental Management (MSc Environmental Management)",
+                "Master of Science in Environmental Science (MSc Environmental Science)",
+                "Master of Science in Environmental Engineering (MSc Environmental Engineering)",
+                "Master of Science in Urban Planning (MSc Urban Planning)",
+                "Master of Science in Regional Planning (MSc Regional Planning)",
+                "Master of Science in Transportation Planning (MSc Transportation Planning)",
+                "Master of Science in Rural Development (MSc Rural Development)",
+                "Master of Science in Human Geography (MSc Human Geography)",
+                "Master of Science in Economic Development (MSc Economic Development)",
+                "Master of Science in Political Geography (MSc Political Geography)",
+                "Master of Science in Geographical Information Systems (MSc Geographical Information Systems)",
+                "Master of Science in Cartography (MSc Cartography)",
+                "Master of Science in Remote Sensing (MSc Remote Sensing)",
+                "Master of Science in Earth Sciences (MSc Earth Sciences)",
+                "Master of Science in Geology (MSc Geology)",
+                "Master of Science in Oceanography (MSc Oceanography)",
+                "Master of Science in Atmospheric Science (MSc Atmospheric Science)",
+                "Master of Science in Climatology (MSc Climatology)",
+                "Master of Science in Meteorology (MSc Meteorology)",
+                "Master of Science in Hydrology (MSc Hydrology)",
+                "Master of Science in Environmental Geosciences (MSc Environmental Geosciences)",
+                "Master of Science in GIS and Remote Sensing (MSc GIS and Remote Sensing)",
+                "Master of Science in Earth System Science (MSc Earth System Science)",
+                "Master of Science in Astronomy (MSc Astronomy)",
+                "Master of Science in Astrophysics (MSc Astrophysics)",
+                "Master of Science in Space Science (MSc Space Science)",
+                "Master of Science in Planetary Science (MSc Planetary Science)",
+                "Master of Science in Cosmology (MSc Cosmology)",
+                "Master of Science in Astrophysical Sciences (MSc Astrophysical Sciences)",
+                "Master of Science in Particle Physics (MSc Particle Physics)",
+                "Master of Science in Nuclear Physics (MSc Nuclear Physics)",
+                "Master of Science in Quantum Physics (MSc Quantum Physics)",
+                "Master of Science in Condensed Matter Physics (MSc Condensed Matter Physics)",
+                "Master of Science in Optics and Photonics (MSc Optics and Photonics)",
+                "Master of Science in Biophysics (MSc Biophysics)"
+            ]
+            
+        },
+        {
+            "title": "Bachelor of Arts in Urdu Studies (BA Urdu Studies)",
+            "higher_education_degree": [
+                "Master of Arts in Urdu Literature (MA Urdu Literature)",
+                "Master of Arts in Linguistics (MA Linguistics)",
+                "Master of Arts in Comparative Literature (MA Comparative Literature)",
+                "Master of Arts in South Asian Studies (MA South Asian Studies)",
+                "Master of Arts in Islamic Studies (MA Islamic Studies)",
+                "Master of Arts in History (MA History)",
+                "Master of Arts in Cultural Studies (MA Cultural Studies)",
+                "Master of Arts in Literature (MA Literature)",
+                "Master of Arts in Journalism and Mass Communication (MA Journalism and Mass Communication)"
+            ]
+            
+        },
+        {
+            "title": "Bachelor of Arts in Persian Studies (BA Persian Studies)",
+            "higher_education_degree": [
+                "Master of Arts in Persian Studies (MA Persian Studies)",
+                "Master of Arts in Middle Eastern Studies (MA Middle Eastern Studies)",
+                "Master of Arts in Linguistics (MA Linguistics)",
+                "Master of Arts in Translation Studies (MA Translation Studies)",
+                "Master of Arts in Comparative Literature (MA Comparative Literature)",
+                "Master of Arts in Cultural Studies (MA Cultural Studies)",
+                "Master of Arts in International Relations (MA International Relations)",
+                "Master of Arts in Diplomacy (MA Diplomacy)",
+                "Master of Arts in History (MA History)",
+                "Master of Arts in Political Science (MA Political Science)"
+            ]
+            
+        },
+        {
+            "title": "Bachelor of Arts in Turkish Studies (BA Turkish Studies)",
+            "higher_education_degree":[
+                "Master of Arts in Turkish Studies (MA Turkish Studies)",
+                "Master of Arts in Middle Eastern Studies (MA Middle Eastern Studies)",
+                "Master of Arts in Linguistics (MA Linguistics)",
+                "Master of Arts in Translation Studies (MA Translation Studies)",
+                "Master of Arts in International Relations (MA International Relations)",
+                "Master of Arts in Diplomacy (MA Diplomacy)",
+                "Master of Arts in Comparative Literature (MA Comparative Literature)",
+                "Master of Arts in Cultural Studies (MA Cultural Studies)",
+                "Master of Arts in Global Studies (MA Global Studies)",
+                "Master of Arts in Political Science (MA Political Science)",
+                "Master of Arts in History (MA History)",
+                "Master of Arts in Anthropology (MA Anthropology)",
+                "Master of Arts in Sociology (MA Sociology)",
+                "Master of Arts in Psychology (MA Psychology)",
+                "Master of Arts in Education (MA Education)"
+            ]
+            
+        },
+        {
+            "title": "Bachelor of Arts in Comparative Literature (BA Comparative Literature)",
+            "higher_education_degree": [
+                "Master of Arts in Comparative Literature (MA Comparative Literature)",
+                "Master of Fine Arts in Creative Writing (MFA Creative Writing)",
+                "Master of Arts in Literary Studies (MA Literary Studies)",
+                "Master of Arts in Linguistics (MA Linguistics)",
+                "Master of Arts in Translation Studies (MA Translation Studies)",
+                "Master of Arts in Cultural Studies (MA Cultural Studies)",
+                "Master of Arts in Film Studies (MA Film Studies)",
+                "Master of Arts in Theater Studies (MA Theater Studies)",
+                "Master of Arts in Media Studies (MA Media Studies)",
+                "Master of Arts in Gender Studies (MA Gender Studies)",
+                "Master of Arts in Sociology (MA Sociology)",
+                "Master of Arts in Anthropology (MA Anthropology)",
+                "Master of Arts in History (MA History)",
+                "Master of Arts in Philosophy (MA Philosophy)"
+            ]
+            
+        },
+        {
+            "title": "Bachelor of Arts in Cultural Studies (BA Cultural Studies)",
+            "higher_education_degree": [
+                "Master of Arts in Cultural Studies (MA Cultural Studies)",
+                "Master of Fine Arts (MFA)",
+                "Master of Arts in Anthropology (MA Anthropology)",
+                "Master of Arts in Sociology (MA Sociology)",
+                "Master of Arts in Literature (MA Literature)",
+                "Master of Arts in Media Studies (MA Media Studies)",
+                "Master of Arts in Journalism (MA Journalism)",
+                "Master of Arts in Communication Studies (MA Communication Studies)",
+                "Master of Arts in Film Studies (MA Film Studies)",
+                "Master of Arts in Gender Studies (MA Gender Studies)",
+                "Master of Arts in International Relations (MA International Relations)",
+                "Master of Arts in Global Studies (MA Global Studies)",
+                "Master of Arts in Political Science (MA Political Science)",
+                "Master of Arts in Development Studies (MA Development Studies)",
+                "Master of Arts in Peace and Conflict Studies (MA Peace and Conflict Studies)",
+                "Master of Arts in Diplomacy (MA Diplomacy)",
+                "Master of Arts in Security Studies (MA Security Studies)",
+                "Master of Arts in Political Studies (MA Political Studies)",
+                "Master of Arts in Public Policy (MA Public Policy)",
+                "Master of Arts in Legal Studies (MA Legal Studies)",
+                "Master of Arts in Social Work (MA Social Work)",
+                "Master of Arts in Community Development (MA Community Development)"
+            ]
+            
+        },
+        {
+            "title": "Bachelor of Arts in Gender Studies (BA Gender Studies)",
+            "higher_education_degree": [
+                "Master of Arts in Gender Studies (MA Gender Studies)",
+                "Master of Social Work (MSW)",
+                "Master of Public Administration (MPA)",
+                "Master of Public Policy (MPP)",
+                "Master of Human Rights (MHR)",
+                "Master of Sociology (MSoc)",
+                "Master of Political Science (MPS)",
+                "Master of International Relations (MIR)",
+                "Master of Women's Studies (MWS)",
+                "Master of Development Studies (MDS)"
+            ]
+            
+        },
+        {
+            "title": "Bachelor of Arts in Film and Media Studies (BA Film and Media Studies)",
+            "higher_education_degree": [
+                "Master of Fine Arts (MFA)",
+                "Master of Arts in Film Studies (MA Film Studies)",
+                "Master of Arts in Media and Communication Studies (MA Media and Communication Studies)",
+                "Master of Arts in Journalism (MA Journalism)",
+                "Master of Arts in Advertising (MA Advertising)",
+                "Master of Arts in Public Relations (MA Public Relations)",
+                "Master of Arts in Digital Media (MA Digital Media)",
+                "Master of Science in Media Management (MS Media Management)",
+                "Master of Science in Entertainment Business (MS Entertainment Business)",
+                "Master of Science in Multimedia Technology (MS Multimedia Technology)"
+            ]
+            
+        },
+        {
+            "title": "Bachelor of Arts in Performing Arts (BA Performing Arts)",
+            "higher_education_degree": [
+                "Master of Fine Arts (MFA)",
+                "Master of Arts in Theater (MA Theater)",
+                "Master of Arts in Dance (MA Dance)",
+                "Master of Arts in Music (MA Music)",
+                "Master of Arts in Performing Arts (MA Performing Arts)",
+                "Master of Arts in Arts Administration (MA Arts Administration)",
+                "Master of Arts in Film and Media Studies (MA Film and Media Studies)",
+                "Master of Arts in Cultural Studies (MA Cultural Studies)",
+                "Master of Arts in Musicology (MA Musicology)",
+                "Master of Arts in Ethnomusicology (MA Ethnomusicology)",
+                "Master of Arts in Music Education (MA Music Education)",
+                "Master of Arts in Music Therapy (MA Music Therapy)"
+            ]
+            
+        },
+        {
+            "title": "Bachelor of Arts in Visual Arts (BA Visual Arts)",
+            "higher_education_degree": [
+                "Master of Fine Arts (MFA)",
+                "Master of Arts in Visual Arts",
+                "Master of Arts in Art History",
+                "Master of Arts in Museum Studies",
+                "Master of Arts in Curatorial Studies",
+                "Master of Arts in Arts Administration",
+                "Master of Arts in Art Therapy",
+                "Master of Arts in Art Education",
+                "Master of Arts in Studio Art",
+                "Master of Arts in Graphic Design",
+                "Master of Arts in Illustration",
+                "Master of Arts in Photography",
+                "Master of Arts in Digital Media Arts",
+                "Master of Arts in Film and Media Studies",
+                "Master of Arts in Animation",
+                "Master of Arts in Art Conservation",
+                "Master of Arts in Art Business",
+                "Master of Arts in Visual Communication",
+                "Master of Arts in Exhibition Design",
+                "Master of Arts in Interdisciplinary Arts",
+                "Master of Arts in Performance Art",
+                "Master of Arts in Sculpture",
+                "Master of Arts in Painting",
+                "Master of Arts in Printmaking",
+                "Master of Arts in Ceramics",
+                "Master of Arts in Textile Arts",
+                "Master of Arts in Jewelry Design",
+                "Master of Arts in Environmental Arts",
+                "Master of Arts in Public Art",
+                "Master of Arts in Community Arts",
+                "Master of Arts in Digital Arts",
+                "Master of Arts in Multimedia Arts",
+                "Master of Arts in Fine Art",
+                "Master of Arts in Visual Culture",
+                "Master of Arts in Art Criticism",
+                "Master of Arts in Creative Arts",
+                "Master of Arts in Design Studies",
+                "Master of Arts in Visual Effects",
+                "Master of Arts in Computer Arts",
+                "Master of Arts in Virtual Reality",
+                "Master of Arts in Augmented Reality",
+                "Master of Arts in Game Design",
+                "Master of Arts in User Experience Design",
+                "Master of Arts in User Interface Design",
+                "Master of Arts in Interaction Design",
+                "Master of Arts in Web Design",
+                "Master of Arts in Mobile App Design",
+                "Master of Arts in Digital Illustration",
+                "Master of Arts in Visual Storytelling",
+                "Master of Arts in Creative Writing",
+                "Master of Arts in Art and Technology",
+                "Master of Arts in Media Arts",
+                "Master of Arts in Sound Design",
+                "Master of Arts in Music Technology",
+                "Master of Arts in Film Production",
+                "Master of Arts in Screenwriting",
+                "Master of Arts in Film Directing",
+                "Master of Arts in Cinematography",
+                "Master of Arts in Film Editing",
+                "Master of Arts in Film Studies",
+                "Master of Arts in Documentary Filmmaking",
+                "Master of Arts in Animation Production",
+                "Master of Arts in Visual Effects Production",
+                "Master of Arts in Game Development",
+                "Master of Arts in Game Production",
+                "Master of Arts in Game Programming",
+                "Master of Arts in Game Design and Development",
+                "Master of Arts in Game Art",
+                "Master of Arts in Game Animation",
+                "Master of Arts in Game Sound Design",
+                "Master of Arts in Game Writing",
+                "Master of Arts in Game Studies",
+                "Master of Arts in Virtual Reality Development",
+                "Master of Arts in Virtual Reality Design",
+                "Master of Arts in Virtual Reality Production",
+                "Master of Arts in Augmented Reality Development",
+                "Master of Arts in Augmented Reality Design",
+                "Master of Arts in Augmented Reality Production",
+                "Master of Arts in Immersive Arts",
+                "Master of Arts in Immersive Design",
+                "Master of Arts in Immersive Storytelling",
+                "Master of Arts in Immersive Media",
+                "Master of Arts in Immersive Technology",
+                "Master of Arts in Immersive Experiences",
+                "Master of Arts in Spatial Arts",
+                "Master of Arts in Spatial Design",
+                "Master of Arts in Spatial Experience Design",
+                "Master of Arts in Spatial Computing",
+                "Master of Arts in Spatial Interaction Design",
+                "Master of Arts in Spatial Media",
+                "Master of Arts in Spatial Storytelling",
+                "Master of Arts in Spatial Visualization",
+                "Master of Arts in Spatial Sound",
+                "Master of Arts in Spatial Music",
+                "Master of Arts in Spatial Narrative",
+                "Master of Arts in Spatial Games",
+                "Master of Arts in Spatial Simulation",
+                "Master of Arts in Spatial Modeling",
+                "Master of Arts in Spatial Analysis",
+                "Master of Arts in Spatial Representation",
+                "Master of Arts in Spatial Communication",
+                "Master of Arts in Spatial Cognition",
+                "Master of Arts in Spatial Perception",
+                "Master of Arts in Spatial Psychology",
+                "Master of Arts in Spatial Philosophy",
+                "Master of Arts in Spatial Anthropology",
+                "Master of Arts in Spatial Sociology",
+                "Master of Arts in Spatial Geography",
+                "Master of Arts in Spatial History",
+                "Master of Arts in Spatial Literature",
+                "Master of Arts in Spatial Linguistics",
+                "Master of Arts in Spatial Education",
+                "Master of Arts in Spatial Research",
+                "Master of Arts in Spatial Studies",
+                "Master of Arts in Spatial Science",
+                "Master of Arts in Spatial Engineering",
+                "Master of Arts in Spatial Medicine",
+                "Master of Arts in Spatial Law",
+                "Master of Arts in Spatial Ethics",
+                "Master of Arts in Spatial Politics",
+                "Master of Arts in Spatial Economics",
+                "Master of Arts in Spatial Business",
+                "Master of Arts in Spatial Management",
+                "Master of Arts in Spatial Leadership",
+                "Master of Arts in Spatial Innovation",
+                "Master of Arts in Spatial Entrepreneurship",
+                "Master of Arts in Spatial Development",
+                "Master of Arts in Spatial Planning",
+                "Master of Arts in Spatial Policy",
+                "Master of Arts in Spatial Strategy",
+                "Master of Arts in Spatial Sustainability",
+                "Master of Arts in Spatial Conservation",
+                "Master of Arts in Spatial Restoration",
+                "Master of Arts in Spatial Preservation",
+                "Master of Arts in Spatial Adaptation",
+                "Master of Arts in Spatial Transformation",
+                "Master of Arts in Spatial Design Thinking",
+                "Master of Arts in Spatial Creativity",
+                "Master of Arts in Spatial Imagination",
+                "Master of Arts in Spatial Aesthetics",
+                "Master of Arts in Spatial Ethics",
+                "Master of Arts in Spatial Justice",
+                "Master of Arts in Spatial Equality",
+                "Master of Arts in Spatial Identity",
+                "Master of Arts in Spatial Community",
+                "Master of Arts in Spatial Belonging",
+                "Master of Arts in Spatial Citizenship",
+                "Master of Arts in Spatial Participation",
+                "Master of Arts in Spatial Democracy",
+                "Master of Arts in Spatial Engagement",
+                "Master of Arts in Spatial Empowerment",
+                "Master of Arts in Spatial Liberation",
+                "Master of Arts in Spatial Wellness",
+                "Master of Arts in Spatial Well-being",
+                "Master of Arts in Spatial Health",
+                "Master of Arts in Spatial Fitness",
+                "Master of Arts in Spatial Nutrition",
+                "Master of Arts in Spatial Ecology",
+                "Master of Arts in Spatial Environment",
+                "Master of Arts in Spatial Conservation",
+                "Master of Arts in Spatial Restoration"
+            ]
+            
+        },
+        {
+            "title": "Bachelor of Arts in Art History (BA Art History)",
+            "higher_education_degree": [
+                "Master of Arts in Art History (MA Art History)",
+                "Master of Fine Arts (MFA)",
+                "Master of Arts in Museum Studies (MA Museum Studies)",
+                "Master of Arts in Cultural Heritage Management (MA Cultural Heritage Management)",
+                "Master of Arts in Curatorial Studies (MA Curatorial Studies)",
+                "Master of Arts in Arts Administration (MA Arts Administration)",
+                "Master of Arts in Art Therapy (MA Art Therapy)",
+                "Master of Arts in Art Education (MA Art Education)"
+            ]
+            
+        },
+        {
+            "title": "Bachelor of Arts in Fine Arts (BA Fine Arts)",
+            "higher_education_degree": [
+                "Master of Fine Arts (MFA)",
+                "Master of Arts in Art History (MA Art History)",
+                "Master of Arts in Visual Arts (MA Visual Arts)",
+                "Master of Arts in Art Education (MA Art Education)",
+                "Master of Arts in Museum Studies (MA Museum Studies)",
+                "Master of Arts in Curatorial Studies (MA Curatorial Studies)",
+                "Master of Arts in Arts Administration (MA Arts Administration)"
+            ]
+            
+        },
+        {
+            "title": "Bachelor of Arts in Music Studies (BA Music Studies)",
+            "higher_education_degree": [
+                "Master of Music (MM)",
+                "Master of Arts in Musicology (MA Musicology)",
+                "Master of Fine Arts in Music (MFA Music)",
+                "Master of Arts in Ethnomusicology (MA Ethnomusicology)",
+                "Master of Arts in Music Education (MA Music Education)",
+                "Master of Arts in Music Therapy (MA Music Therapy)",
+                "Master of Arts in Music Business (MA Music Business)",
+                "Master of Arts in Sound Design (MA Sound Design)",
+                "Master of Arts in Music Technology (MA Music Technology)"
+            ]
+            
+        },
+        {
+            "title": "Bachelor of Arts in Religious Studies (BA Religious Studies)",
+            "higher_education_degree": [
+                "Master of Arts in Religious Studies (MA Religious Studies)",
+                "Master of Divinity (MDiv)",
+                "Master of Theology (ThM)",
+                "Master of Philosophy (MPhil) in Religious Studies",
+                "Master of Education (MEd) with a focus on Religious Studies",
+                "Master of Social Work (MSW) with a focus on Religious Studies",
+                "Master of Public Administration (MPA) with a focus on Religious Studies",
+                "Master of International Relations (MIR) with a focus on Religious Studies",
+                "Master of Global Affairs (MGA) with a focus on Religious Studies",
+                "Master of Library and Information Science (MLIS) with a focus on Religious Studies",
+                "Master of Museum Studies (MMS) with a focus on Religious Studies",
+                "Master of Fine Arts (MFA) with a focus on Religious Studies",
+                "Master of Theological Studies (MTS)",
+                "Master of Sacred Theology (STM)",
+                "Master of Religion (MRel)",
+                "Master of Arts in Theology and Religious Studies (MATh)",
+                "Master of Arts in Biblical Studies (MABS)",
+                "Master of Arts in Pastoral Studies (MAPS)",
+                "Master of Arts in Christian Studies (MACS)",
+                "Master of Arts in Islamic Studies (MAIS)",
+                "Master of Arts in Buddhist Studies (MABS)",
+                "Master of Arts in Hindu Studies (MAHS)",
+                "Master of Arts in Judaic Studies (MAJS)",
+                "Master of Arts in Sikh Studies (MASS)",
+                "Master of Arts in Comparative Religion (MACR)",
+                "Master of Arts in Interfaith Studies (MAIS)",
+                "Master of Arts in Religion and Culture (MARC)",
+                "Master of Arts in Religious Education (MARE)",
+                "Master of Arts in Spiritual Formation (MASF)",
+                "Master of Arts in Ministry (MAM)",
+                "Master of Arts in Worship Studies (MAWS)",
+                "Master of Arts in Missiology (MAM)",
+                "Master of Arts in Ethics and Religion (MAER)",
+                "Master of Arts in Theology and Ethics (MATE)",
+                "Master of Arts in Religion and Ecology (MARE)",
+                "Master of Arts in Religion and Philosophy (MARP)",
+                "Master of Arts in Religion and Society (MARS)",
+                "Master of Arts in Religion and Politics (MARP)",
+                "Master of Arts in Religion and Literature (MARL)",
+                "Master of Arts in Religion and Art (MARA)",
+                "Master of Arts in Religion and Science (MARS)",
+                "Master of Arts in Religion and Technology (MART)",
+                "Master of Arts in Religion and Gender (MARG)",
+                "Master of Arts in Religion and Psychology (MARP)",
+                "Master of Arts in Religion and Counseling (MARC)",
+                "Master of Arts in Religion and Health (MARH)",
+                "Master of Arts in Religion and Medicine (MARM)",
+                "Master of Arts in Religion and Law (MARL)",
+                "Master of Arts in Religion and Business (MARB)",
+                "Master of Arts in Religion and Leadership (MARL)",
+                "Master of Arts in Religion and Conflict Resolution (MARCR)",
+                "Master of Arts in Religion and Peacebuilding (MARPB)",
+                "Master of Arts in Religion and International Development (MARID)",
+                "Master of Arts in Religion and Human Rights (MARHR)",
+                "Master of Arts in Religion and Environmental Studies (MARES)",
+                "Master of Arts in Religion and Social Justice (MARJ)",
+                "Master of Arts in Religion and Community Development (MARCD)",
+                "Master of Arts in Religion and Public Policy (MARPP)",
+                "Master of Arts in Religion and Ethics in Business (MAREB)",
+                "Master of Arts in Religion and Diplomacy (MARD)",
+                "Master of Arts in Religion and Security (MARS)",
+                "Master of Arts in Religion and Conflict Studies (MARCS)",
+                "Master of Arts in Religion and Terrorism (MART)",
+                "Master of Arts in Religion and War (MARW)",
+                "Master of Arts in Religion and Peace Studies (MARPS)",
+                "Master of Arts in Religion and Cultural Heritage (MARCH)",
+                "Master of Arts in Religion and Heritage Tourism (MARHT)",
+                "Master of Arts in Religion and Pilgrimage Studies (MARPS)",
+                "Master of Arts in Religion and Media Studies (MARMS)",
+                "Master of Arts in Religion and Digital Media (MARDM)",
+                "Master of Arts in Religion and Social Media (MARSM)",
+                "Master of Arts in Religion and Mass Communication (MARMC)",
+                "Master of Arts in Religion and Visual Culture (MARVC)",
+                "Master of Arts in Religion and Film (MARF)",
+                "Master of Arts in Religion and Theater (MART)",
+                "Master of Arts in Religion and Music (MARM)",
+                "Master of Arts in Religion and Dance (MARD)",
+                "Master of Arts in Religion and Literature (MARL)",
+                "Master of Arts in Religion and Poetry (MARPO)",
+                "Master of Arts in Religion and Fiction (MARF)",
+                "Master of Arts in Religion and Non-Fiction (MARNF)",
+                "Master of Arts in Religion and Writing (MARW)",
+                "Master of Arts in Religion and Criticism (MARC)",
+                "Master of Arts in Religion and Theory (MART)",
+                "Master of Arts in Religion and Research (MARR)",
+                "Master of Arts in Religion and Methodology (MARM)",
+                "Master of Arts in Religion and Comparative Studies (MARCS)",
+                "Master of Arts in Religion and Literary Theory (MARLT)",
+                "Master of Arts in Religion and Cultural Theory (MARCT)",
+                "Master of Arts in Religion and Critical Theory (MARCT)",
+                "Master of Arts in Religion and Feminist Theory (MARFT)",
+                "Master of Arts in Religion and Post-Colonial Theory (MARPT)",
+                "Master of Arts in Religion and Queer Theory (MARQT)",
+                "Master of Arts in Religion and Gender Theory (MARGT)",
+                "Master of Arts in Religion and Psychoanalytic Theory (MARPAT)",
+                "Master of Arts in Religion and Marxist Theory (MARMAT)",
+                "Master of Arts in Religion and Phenomenological Theory (MARPHT)",
+                "Master of Arts in Religion and Hermeneutic Theory (MARHT)",
+                "Master of Arts in Religion and Ethnographic Theory (MARET)",
+                "Master of Arts in Religion and Literary Criticism (MARLC)",
+                "Master of Arts in Religion and Cultural Criticism (MARCC)",
+                "Master of Arts in Religion and Aesthetic Theory (MARAT)",
+                "Master of Arts in Religion and Theological Theory (MARTT)",
+                "Master of Arts in Religion and Philosophical Theology (MARPT)",
+                "Master of Arts in Religion and Theological Philosophy (MARTP)",
+                "Master of Arts in Religion and Analytical Theology (MARAT)",
+                "Master of Arts in Religion and Comparative Theology (MARCT)",
+                "Master of Arts in Religion and Systematic Theology (MARSY)"
+            ]
+               
+            
+        },
+        {
+            "title": "Bachelor of Arts in Philosophy and Ethics (BA Philosophy and Ethics)",
+            "higher_education_degree": [
+                "Master of Arts in Philosophy (MA Philosophy)",
+                "Master of Arts in Ethics (MA Ethics)",
+                "Master of Arts in Religious Studies (MA Religious Studies)",
+                "Master of Arts in Social Work (MA Social Work)",
+                "Master of Arts in Political Science (MA Political Science)",
+                "Master of Arts in Sociology (MA Sociology)",
+                "Master of Arts in Psychology (MA Psychology)",
+                "Master of Arts in International Relations (MA International Relations)",
+                "Master of Arts in Counseling Psychology (MA Counseling Psychology)",
+                "Master of Divinity (MDiv)",
+                "Master of Theology (MTh)",
+                "Master of Public Policy (MPP)",
+                "Master of Business Administration (MBA)",
+                "Master of Education (MEd)",
+                "Master of Fine Arts (MFA)",
+                "Master of Social Work (MSW)",
+                "Master of Public Administration (MPA)",
+                "Master of Nonprofit Administration (MNA)",
+                "Master of Public Health (MPH)",
+                "Master of Health Administration (MHA)",
+                "Master of Science in Ethics and Compliance (MSc Ethics and Compliance)",
+                "Master of Science in Bioethics (MSc Bioethics)"
+            ]
+            
+        },
+        {
+            "title": "Bachelor of Arts in Mythology Studies (BA Mythology Studies)",
+            "higher_education_degree": [
+                "Master of Arts in Religious Studies (MA Religious Studies)",
+                "Master of Arts in Mythology Studies (MA Mythology Studies)",
+                "Master of Arts in Folklore Studies (MA Folklore Studies)",
+                "Master of Arts in Cultural Studies (MA Cultural Studies)",
+                "Master of Arts in Archaeology (MA Archaeology)",
+                "Master of Arts in Anthropology (MA Anthropology)",
+                "Master of Arts in History (MA History)",
+                "Master of Arts in Comparative Literature (MA Comparative Literature)",
+                "Master of Arts in Literature (MA Literature)",
+                "Master of Arts in Classics (MA Classics)"
+            ]
+            
+        },
+        {
+            "title": "Bachelor of Arts in Archaeology and Anthropology (BA Archaeology and Anthropology)",
+            "higher_education_degree": [
+                "Master of Arts in Archaeology",
+                "Master of Arts in Anthropology",
+                "Master of Science in Archaeology and Anthropology",
+                "Master of Arts in Cultural Anthropology",
+                "Master of Arts in Social Anthropology",
+                "Master of Science in Biological Anthropology",
+                "Master of Science in Archaeological Science",
+                "Master of Arts in Heritage Management",
+                "Master of Arts in Museum Studies",
+                "Master of Arts in Ethnography",
+                "Master of Arts in Folklore Studies",
+                "Master of Arts in Indigenous Studies",
+                "Master of Arts in Historical Archaeology",
+                "Master of Arts in Forensic Anthropology",
+                "Master of Arts in Linguistic Anthropology",
+                "Master of Arts in Visual Anthropology",
+                "Master of Arts in Medical Anthropology"
+            ]
+            
+        },
+        {
+            "title": "Bachelor of Arts in Development Studies (BA Development Studies)",
+            "higher_education_degree": [
+                "Master of Arts in Development Studies (MA Development Studies)",
+                "Master of Science in Development Economics (MSc Development Economics)",
+                "Master of Public Policy (MPP)",
+                "Master of International Development (MID)",
+                "Master of Social Work (MSW)",
+                "Master of Public Administration (MPA)",
+                "Master of Global Affairs (MGA)",
+                "Master of Sustainable Development (MSD)",
+                "Master of International Relations (MIR)",
+                "Master of Urban Planning (MUP)",
+                "Master of Human Rights (MHR)",
+                "Master of Environmental Management (MEM)"
+            ]
+            
+        },
+        {
+            "title": "Bachelor of Arts in Peace and Conflict Studies (BA Peace and Conflict Studies)",
+            "higher_education_degree": [
+                "Master of Arts in Peace and Conflict Studies (MA Peace and Conflict Studies)",
+                "Master of Science in Conflict Resolution and Mediation (MSCRM)",
+                "Master of International Affairs (MIA) with a focus on Peace and Conflict Studies",
+                "Master of Public Policy (MPP) with a concentration in Conflict Resolution",
+                "Master of Social Work (MSW) with a specialization in Peacebuilding and Conflict Resolution",
+                "Master of Diplomacy and International Relations (MDIR) with a focus on Conflict Resolution",
+                "Master of Human Rights (MHR) with a concentration in Peacebuilding",
+                "Master of Development Studies (MDS) with an emphasis on Conflict Transformation",
+                "Master of International Law and Human Rights (MILHR) with a focus on Conflict Prevention",
+                "Master of Conflict Transformation (MCT)"
+            ]
+            
+        },
+        {
+            "title": "Bachelor of Arts in International Relations (BA International Relations)",
+            "higher_education_degree": [
+                "Master of Arts in International Relations (MA International Relations)",
+                "Master of Science in International Relations (MS International Relations)",
+                "Master of International Affairs (MIA)",
+                "Master of Public Administration (MPA) with a concentration in International Relations",
+                "Master of Diplomacy (MD)",
+                "Master of Global Affairs (MGA)",
+                "Master of Peace and Conflict Studies (MPACS)",
+                "Master of International Development (MID)",
+                "Master of International Business (MIB)",
+                "Master of Political Science (MPolSc) with a focus on International Relations",
+                "Master of Human Rights (MHR)",
+                "Master of Security Studies (MSS)",
+                "Master of International Law (LLM)",
+                "Master of European Studies (MES)",
+                "Master of Middle Eastern Studies (MMES)",
+                "Master of Asian Studies (MAS)",
+                "Master of African Studies (MAAS)"
+            ]
+            
+        },
+        {
+            "title": "Bachelor of Arts in Global Studies (BA Global Studies)",
+            "higher_education_degree": [
+                "Master of Arts in International Relations (MA International Relations)",
+                "Master of Arts in Global Studies (MA Global Studies)",
+                "Master of Arts in Diplomacy (MA Diplomacy)",
+                "Master of Arts in Development Studies (MA Development Studies)",
+                "Master of Arts in Peace and Conflict Studies (MA Peace and Conflict Studies)",
+                "Master of Arts in International Development (MA International Development)",
+                "Master of Public Administration (MPA)",
+                "Master of Public Policy (MPP)",
+                "Master of International Business (MIB)",
+                "Master of International Affairs (MIA)",
+                "Master of Arts in Sociology (MA Sociology)",
+                "Master of Arts in Anthropology (MA Anthropology)",
+                "Master of Arts in Political Science (MA Political Science)",
+                "Master of Arts in Economics (MA Economics)",
+                "Master of Arts in Geography (MA Geography)"
+            ]
+            
+        },
+        {
+            "title": "Bachelor of Arts in Diplomacy (BA Diplomacy)",
+            "higher_education_degree": [
+                "Master of Arts in International Relations (MA International Relations)",
+                "Master of International Affairs (MIA)",
+                "Master of Diplomacy (MDip)",
+                "Master of Public Policy (MPP)",
+                "Master of Political Science (MPS)",
+                "Master of Public Administration (MPA)",
+                "Master of Law and Diplomacy (MLD)",
+                "Master of Global Affairs (MGA)"
+            ]
+            
+        },
+        {
+            "title": "Bachelor of Arts in Security Studies (BA Security Studies)",
+            "higher_education_degree": [
+                "Master of Arts in Security Studies (MA Security Studies)",
+                "Master of Science in Security and Risk Management (MSc Security and Risk Management)",
+                "Master of International Relations and Security Studies (MIRSS)",
+                "Master of Public Administration (MPA) with a concentration in Security Studies",
+                "Master of Public Policy (MPP) with a concentration in Security Policy",
+                "Master of Intelligence and National Security (MINS)",
+                "Master of Terrorism and Security Studies (MTSS)"
+            ]
+            
+        },
+        {
+            "title": "Bachelor of Arts in Political Studies (BA Political Studies)",
+            "higher_education_degree": [
+                "Master of Arts in Political Science (MA Political Science)",
+                "Master of Public Administration (MPA)",
+                "Master of International Relations (MIR)",
+                "Master of Public Policy (MPP)",
+                "Master of Diplomacy and International Relations (MDIR)",
+                "Master of Governance and Public Policy (MGPP)",
+                "Master of Political Communication (MPC)",
+                "Master of Development Studies (MDS)",
+                "Master of Global Affairs (MGA)",
+                "Master of Conflict Resolution (MCR)",
+                "Master of Legal Studies (MLS)",
+                "Master of Social Work (MSW)",
+                "Master of Community Development (MCD)"
+            ]
+            
+        },
+        {
+            "title": "Bachelor of Arts in Governance Studies (BA Governance Studies)",
+            "higher_education_degree": [
+                "Master of Public Administration (MPA)",
+                "Master of Public Policy (MPP)",
+                "Master of International Affairs (MIA)",
+                "Master of Political Science (MPS)",
+                "Master of Governance and Public Policy (MGPP)",
+                "Master of Diplomacy (MD)",
+                "Master of Legal Studies (MLS)",
+                "Master of Social Work (MSW)",
+                "Master of Arts in International Relations (MA International Relations)",
+                "Master of Arts in Global Governance (MAGG)",
+                "Master of Arts in Diplomacy (MAD)",
+                "Master of Arts in Political Studies (MAPS)",
+                "Master of Arts in Security Studies (MA Security Studies)",
+                "Master of Arts in Governance and Public Policy (MAGPP)",
+                "Master of Arts in Public Affairs (MAPA)",
+                "Master of Arts in Development Studies (MADS)",
+                "Master of Arts in Peace and Conflict Studies (MAPCS)",
+                "Master of Arts in Government (MAG)",
+                "Master of Arts in Political Communication (MAPC)",
+                "Master of Arts in Governance and Development (MAGD)"
+            ]
+            
+        },
+        {
+            "title": "Bachelor of Arts in Public Policy (BA Public Policy)",
+            "higher_education_degree": [
+                "Master of Public Administration (MPA)",
+                "Master of Public Policy (MPP)",
+                "Master of Arts in Political Science (MA Political Science)",
+                "Master of Arts in International Relations (MA International Relations)",
+                "Master of Arts in Public Policy and Administration (MPPA)",
+                "Master of Arts in Public Affairs (MPA)",
+                "Master of Science in Public Policy (MSc Public Policy)",
+                "Master of Social Work (MSW)",
+                "Juris Doctor (JD)"
+            ]
+            
+        },
+        {
+            "title": "Bachelor of Arts in Legal Studies (BA Legal Studies)",
+            "higher_education_degree": [
+                "Master of Laws (LLM)",
+                "Juris Doctor (JD)",
+                "Master of Public Administration (MPA)",
+                "Master of Public Policy (MPP)",
+                "Master of Business Administration (MBA)",
+                "Master of Arts in Legal Studies (MA Legal Studies)",
+                "Master of Science in Criminal Justice (MSCJ)",
+                "Master of Social Work (MSW)",
+                "Master of Arts in Dispute Resolution (MADR)",
+                "Master of Arts in Human Rights (MA Human Rights)",
+                "Master of Arts in International Relations (MA International Relations)",
+                "Master of Arts in Diplomacy (MA Diplomacy)",
+                "Master of Arts in Governance (MA Governance)",
+                "Master of Arts in Political Science (MA Political Science)"
+            ]
+            
+        },
+        {
+            "title": "Bachelor of Arts in Criminal Justice (BA Criminal Justice)",
+            "higher_education_degree": [
+                "Master of Criminal Justice (MCJ)",
+                "Master of Science in Criminal Justice (MSCJ)",
+                "Master of Arts in Criminology (MAC)",
+                "Master of Arts in Criminal Justice (MACJ)",
+                "Master of Public Administration (MPA) with a concentration in Criminal Justice",
+                "Master of Social Work (MSW) with a concentration in Criminal Justice",
+                "Juris Doctor (JD) with a focus on Criminal Law",
+                "Master of Laws (LLM) in Criminal Law",
+                "Doctor of Philosophy (PhD) in Criminology or Criminal Justice",
+                "Doctor of Juridical Science (SJD) in Criminal Law"
+            ]
+            
+        },
+        {
+            "title": "Bachelor of Arts in Social Work (BA Social Work)",
+            "higher_education_degree":[
+                "Master of Social Work (MSW)",
+                "Master of Public Administration (MPA)",
+                "Master of Public Health (MPH)",
+                "Master of Arts in Counseling Psychology (MACP)",
+                "Master of Arts in Human Services (MAHS)",
+                "Master of Science in Social Work (MSSW)",
+                "Master of Education in Counseling (MEC)",
+                "Master of Science in Nonprofit Management and Leadership (MSNML)",
+                "Master of Arts in Sociology (MA Sociology)",
+                "Master of Arts in International Development (MAID)",
+                "Master of Arts in Community Development (MACD)",
+                "Master of Arts in Social Policy (MASP)",
+                "Master of Arts in Gender Studies (MAGS)",
+                "Master of Arts in Criminology and Criminal Justice (MACCJ)",
+                "Master of Arts in Urban and Regional Planning (MAURP)",
+                "Master of Science in Gerontology (MSG)",
+                "Master of Science in Human Services Administration (MSHSA)"
+            ]
+            
+        },
+        {
+            "title": "Bachelor of Arts in Community Development (BA Community Development)",
+            "higher_education_degree": [
+                "Master of Arts in Community Development (MA Community Development)",
+                "Master of Social Work (MSW)",
+                "Master of Public Administration (MPA)",
+                "Master of Public Policy (MPP)",
+                "Master of Nonprofit Management (MNM)",
+                "Master of Urban and Regional Planning (MURP)",
+                "Master of International Development (MID)",
+                "Master of Sustainable Development (MSD)",
+                "Master of Environmental Studies (MES)",
+                "Master of Human Rights (MHR)",
+                "Master of Global Affairs (MGA)"
+            ]
+            
+        }  
+    
+]

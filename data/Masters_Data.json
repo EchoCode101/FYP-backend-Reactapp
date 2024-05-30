@@ -1,0 +1,418 @@
+[
+  {
+    "title": "Bachelor of Science in Nursing (BSN)",
+    "higher_education_degree": [
+      "Master of Science in Nursing (MSN)",
+      "Doctor of Nursing Practice (DNP)",
+      "Doctor of Philosophy in Nursing (Ph.D.)",
+      "Master of Health Administration (MHA)",
+      "Master of Public Health (MPH)",
+      "Master of Science in Nurse Anesthesia (MSNA)",
+      "Master of Science in Nursing Education (MSNE)",
+      "Doctor of Nurse Anesthesia Practice (DNAP)",
+      "Doctor of Nursing (ND)",
+      "Doctor of Nurse Anesthesia Science (DNASc)"
+    ]
+  },
+  {
+    "title": "Bachelor of Science in Electrical Engineering (BSEE)",
+    "higher_education_degree": [
+      "Master of Science in Electrical Engineering (MSEE)",
+      "Master of Science in Computer Engineering (MSCE)",
+      "Master of Business Administration (MBA)",
+      "Doctor of Philosophy in Electrical Engineering (Ph.D.)",
+      "Master of Engineering (MEng)",
+      "Doctor of Engineering (DEng)",
+      "Master of Science in Power Systems Engineering (MSPSE)",
+      "Master of Science in Control Systems Engineering (MSCSE)",
+      "Master of Science in Microelectronics Engineering (MSME)"
+    ]
+  },
+  {
+    "title": "Bachelor of Arts in Psychology (BAPsy)",
+    "higher_education_degree": [
+      "Master of Arts in Psychology (MAPsy)",
+      "Doctor of Psychology (PsyD)",
+      "Doctor of Philosophy in Psychology (Ph.D.)",
+      "Master of Social Work (MSW)",
+      "Master of Counseling Psychology (MCP)",
+      "Master of Science in Applied Behavior Analysis (MSABA)",
+      "Doctor of Education in Counseling Psychology (EdD)",
+      "Doctor of Philosophy in Counseling Psychology (Ph.D.)",
+      "Master of Science in Clinical Psychology (MSCP)"
+    ]
+  },
+  {
+    "title": "Bachelor of Science in Mechanical Engineering (BSME)",
+    "higher_education_degree": [
+      "Master of Science in Mechanical Engineering (MSME)",
+      "Master of Engineering Management (MEM)",
+      "Master of Science in Aerospace Engineering (MSAE)",
+      "Doctor of Philosophy in Mechanical Engineering (Ph.D.)",
+      "Master of Science in Robotics Engineering (MSRE)",
+      "Master of Science in Materials Engineering (MSMatE)",
+      "Master of Science in Thermal Engineering (MSTE)",
+      "Master of Science in Fluid Mechanics (MSFM)",
+      "Master of Science in Dynamics and Control (MSDC)"
+    ]
+  },
+  {
+    "title": "Bachelor of Arts in History (BAH)",
+    "higher_education_degree": [
+      "Master of Arts in History (MAH)",
+      "Master of Library and Information Science (MLIS)",
+      "Doctor of Philosophy in History (Ph.D.)",
+      "Master of Arts in Archival Studies (MAAS)",
+      "Master of Museum Studies (MMS)",
+      "Master of Education in History (MEd)",
+      "Doctor of Education in History (EdD)",
+      "Master of Arts in Historical Administration (MAHA)",
+      "Master of Arts in Public History (MAPH)"
+    ]
+  },
+  {
+    "title": "Bachelor of Science in Biomedical Science (BSBMS)",
+    "higher_education_degree": [
+      "Doctor of Medicine (MD)",
+      "Doctor of Osteopathic Medicine (DO)",
+      "Master of Science in Biomedical Engineering (MSBME)",
+      "Doctor of Dental Medicine (DMD)",
+      "Doctor of Pharmacy (Pharm.D.)",
+      "Doctor of Podiatric Medicine (DPM)",
+      "Master of Science in Clinical Laboratory Science (MSCLS)",
+      "Doctor of Veterinary Medicine (DVM)",
+      "Doctor of Chiropractic (DC)",
+      "Doctor of Optometry (OD)"
+    ]
+  },
+  {
+    "title": "Bachelor of Business Administration in Accounting (BBA-Accounting)",
+    "higher_education_degree": [
+      "Master of Accountancy (MAcc)",
+      "Master of Business Administration (MBA)",
+      "Certified Public Accountant (CPA)",
+      "Doctor of Business Administration (DBA)",
+      "Master of Taxation (MTax)",
+      "Master of Forensic Accounting (MFAcc)",
+      "Master of Science in Accounting (MSA)",
+      "Chartered Financial Analyst (CFA)",
+      "Certified Management Accountant (CMA)",
+      "Certified Internal Auditor (CIA)"
+    ]
+  },
+  {
+    "title": "Bachelor of Fine Arts in Graphic Design (BFA-GD)",
+    "higher_education_degree": [
+      "Master of Fine Arts in Graphic Design (MFA-GD)",
+      "Master of Arts in Visual Communication (MA-VC)",
+      "Master of Design (MDes)",
+      "Master of Advertising (MAd)",
+      "Master of Web Design and Development (MWDD)",
+      "Master of Branding (MB)",
+      "Master of Digital Media (MDM)",
+      "Master of Illustration (MI)",
+      "Master of User Experience Design (MUXD)",
+      "Master of Typography (MTyp)"
+    ]
+  },
+  {
+    "title": "Bachelor of Science in Environmental Science (BSES)",
+    "higher_education_degree": [
+      "Master of Science in Environmental Science (MSES)",
+      "Master of Science in Environmental Management (MSEM)",
+      "Doctor of Philosophy in Environmental Science (Ph.D.)",
+      "Master of Science in Sustainable Development (MSSD)",
+      "Master of Science in Climate Change Science and Policy (MCCSP)",
+      "Master of Environmental Engineering (MEnvE)",
+      "Master of Environmental Policy and Planning (MEPP)",
+      "Master of Public Administration in Environmental Science and Policy (MPA-ESP)",
+      "Master of Science in Wildlife Biology (MSWB)",
+      "Master of Science in Marine Biology (MSMB)"
+    ]
+  },
+  {
+    "title": "Bachelor of Science in Civil Engineering (BSCE)",
+    "higher_education_degree": [
+      "Master of Science in Civil Engineering (MSCE)",
+      "Master of Engineering (MEng)",
+      "Doctor of Philosophy in Civil Engineering (Ph.D.)",
+      "Master of Science in Structural Engineering (MSSE)",
+      "Master of Science in Transportation Engineering (MSTE)",
+      "Master of Science in Geotechnical Engineering (MSGE)",
+      "Master of Science in Water Resources Engineering (MSWRE)",
+      "Master of Science in Construction Engineering (MSCE)",
+      "Master of Science in Environmental Engineering (MEnvE)",
+      "Master of Science in Urban and Regional Planning (MSURP)"
+    ]
+  },
+  {
+    "title": "Bachelor of Science in Computer Science (BSCS)",
+    "higher_education_degree": [
+      "Master of Science in Computer Science (MSCS)",
+      "Master of Science in Software Engineering (MSSE)",
+      "Master of Information Technology (MIT)",
+      "Doctor of Philosophy in Computer Science (Ph.D.)",
+      "Master of Business Administration (MBA)",
+      "Master of Data Science (MDS)",
+      "Master of Cybersecurity (MCyber)",
+      "Master of Artificial Intelligence (MAI)",
+      "Master of Computer Engineering (MCompE)",
+      "Master of Human-Computer Interaction (MHCI)"
+    ]
+  },
+  {
+    "title": "Bachelor of Arts in Economics (BAEcon)",
+    "higher_education_degree": [
+      "Master of Arts in Economics (MAEcon)",
+      "Master of Business Administration (MBA)",
+      "Doctor of Philosophy in Economics (Ph.D.)",
+      "Master of Financial Economics (MFE)",
+      "Master of Public Policy (MPP)",
+      "Master of Quantitative Economics (MQE)",
+      "Master of International Economics (MIE)",
+      "Master of Development Economics (MDE)",
+      "Master of Economic Analysis (MEA)",
+      "Master of Applied Economics (MAE)"
+    ]
+  },
+  {
+    "title": "Bachelor of Science in Mathematics (BSMath)",
+    "higher_education_degree": [
+      "Master of Science in Mathematics (MSMath)",
+      "Doctor of Philosophy in Mathematics (Ph.D.)",
+      "Master of Education in Mathematics (MEd)",
+      "Master of Financial Mathematics (MFM)",
+      "Master of Applied Mathematics (MAM)",
+      "Master of Industrial Mathematics (MIM)",
+      "Master of Statistical Science (MSS)",
+      "Master of Mathematical Finance (MMF)",
+      "Master of Actuarial Science (MAS)",
+      "Master of Computational Mathematics (MCM)"
+    ]
+  },
+  {
+    "title": "Bachelor of Arts in English Literature (BAEL)",
+    "higher_education_degree": [
+      "Master of Arts in English Literature (MAEL)",
+      "Master of Fine Arts in Creative Writing (MFA)",
+      "Master of Library and Information Science (MLIS)",
+      "Doctor of Philosophy in English Literature (Ph.D.)",
+      "Master of Publishing (MPub)",
+      "Master of Writing (MW)",
+      "Master of Literature (MLit)",
+      "Master of Comparative Literature (MCL)",
+      "Master of English Studies (MES)",
+      "Master of Modern Languages (MML)"
+    ]
+  },
+  {
+    "title": "Bachelor of Science in Information Technology (BSIT)",
+    "higher_education_degree": [
+      "Master of Science in Information Technology (MSIT)",
+      "Master of Business Administration (MBA)",
+      "Master of Science in Cybersecurity (MSCS)",
+      "Doctor of Philosophy in Information Technology (Ph.D.)",
+      "Master of Network Engineering (MNE)",
+      "Master of Software Development (MSD)",
+      "Master of IT Management (MITM)",
+      "Master of Data Analytics (MDA)",
+      "Master of IT Project Management (MITPM)",
+      "Master of Health Informatics (MHI)"
+    ]
+  },
+  {
+    "title": "Bachelor of Science in Chemistry (BSChem)",
+    "higher_education_degree": [
+      "Master of Science in Chemistry (MSChem)",
+      "Doctor of Philosophy in Chemistry (Ph.D.)",
+      "Master of Science in Chemical Engineering (MSChE)",
+      "Master of Pharmaceutical Chemistry (MPharmChem)",
+      "Master of Analytical Chemistry (MAC)",
+      "Master of Biochemistry (MBiochem)",
+      "Master of Materials Chemistry (MMCh)",
+      "Master of Environmental Chemistry (MEC)",
+      "Master of Physical Chemistry (MPC)",
+      "Master of Industrial Chemistry (MIC)"
+    ]
+  },
+  {
+    "title": "Bachelor of Science in Physics (BSP)",
+    "higher_education_degree": [
+      "Master of Science in Physics (MSP)",
+      "Doctor of Philosophy in Physics (Ph.D.)",
+      "Master of Science in Engineering Physics (MSEP)",
+      "Master of Applied Physics (MAP)",
+      "Master of Theoretical Physics (MTP)",
+      "Master of Computational Physics (MCP)",
+      "Master of Medical Physics (MMP)",
+      "Master of Nuclear Physics (MNP)",
+      "Master of Astrophysics (MAstroph)",
+      "Master of Particle Physics (MPP)"
+    ]
+  },
+  {
+    "title": "Bachelor of Science in Public Health (BSPH)",
+    "higher_education_degree": [
+      "Master of Public Health (MPH)",
+      "Doctor of Public Health (DrPH)",
+      "Master of Health Administration (MHA)",
+      "Master of Science in Epidemiology (MSEpi)",
+      "Master of Health Policy (MHP)",
+      "Master of Global Health (MGH)",
+      "Master of Health Informatics (MHI)",
+      "Master of Biostatistics (MBiostat)",
+      "Master of Environmental Health (MEH)",
+      "Master of Occupational Health (MOH)"
+    ]
+  },
+  {
+    "title": "Bachelor of Arts in Political Science (BAPolSci)",
+    "higher_education_degree": [
+      "Master of Arts in Political Science (MAPolSci)",
+      "Doctor of Political Science (DPS)",
+      "Master of Public Administration (MPA)",
+      "Doctor of Philosophy in Political Science (Ph.D.)",
+      "Master of International Relations (MIR)",
+      "Master of Public Policy (MPP)",
+      "Master of Diplomacy (MDip)",
+      "Master of Political Communication (MPolCom)",
+      "Master of Political Economy (MPE)",
+      "Master of Security Studies (MSS)"
+    ]
+  },
+  {
+    "title": "Bachelor of Science in Industrial Engineering (BSIE)",
+    "higher_education_degree": [
+      "Master of Science in Industrial Engineering (MSIE)",
+      "Master of Business Administration (MBA)",
+      "Master of Engineering Management (MEM)",
+      "Doctor of Philosophy in Industrial Engineering (Ph.D.)",
+      "Master of Quality Engineering (MQE)",
+      "Master of Supply Chain Engineering (MSCE)",
+      "Master of Systems Engineering (MSE)",
+      "Master of Operations Research (MOR)",
+      "Master of Manufacturing Engineering (MME)",
+      "Master of Lean Manufacturing (MLM)"
+    ]
+  },
+  {
+    "title": "Bachelor of Science in Marketing (BSM)",
+    "higher_education_degree": [
+      "Master of Science in Marketing (MSM)",
+      "Master of Business Administration (MBA)",
+      "Doctor of Business Administration (DBA)",
+      "Master of Digital Marketing (MDM)",
+      "Master of Brand Management (MBM)",
+      "Master of International Marketing (MIM)",
+      "Master of Sales Management (MSM)",
+      "Master of Retail Management (MRM)",
+      "Master of Product Management (MPM)",
+      "Master of Social Media Marketing (MSMM)"
+    ]
+  },
+  {
+    "title": "Bachelor of Arts in Sociology (BASoc)",
+    "higher_education_degree": [
+      "Master of Arts in Sociology (MASoc)",
+      "Doctor of Sociology (DSoc)",
+      "Master of Social Work (MSW)",
+      "Master of Science in Criminology (MSCrim)",
+      "Master of Public Administration (MPA)",
+      "Master of Counseling (MCoun)",
+      "Doctor of Social Work (DSW)",
+      "Master of Social Policy (MSocP)",
+      "Master of Social Research (MSocR)",
+      "Master of Human Services (MHS)"
+    ]
+  },
+  {
+    "title": "Bachelor of Science in Health Sciences (BSHS)",
+    "higher_education_degree": [
+      "Master of Science in Health Sciences (MSHS)",
+      "Doctor of Medicine (MD)",
+      "Master of Public Health (MPH)",
+      "Doctor of Osteopathic Medicine (DO)",
+      "Doctor of Pharmacy (Pharm.D.)",
+      "Master of Health Administration (MHA)",
+      "Master of Physician Assistant Studies (MPAS)",
+      "Master of Occupational Therapy (MOT)",
+      "Doctor of Chiropractic (DC)",
+      "Master of Healthcare Administration (MHA)"
+    ]
+  },
+  {
+    "title": "Bachelor of Arts in Communications (BAC)",
+    "higher_education_degree": [
+      "Master of Arts in Communications (MAC)",
+      "Master of Business Administration (MBA)",
+      "Master of Fine Arts in Media Arts (MFAMA)",
+      "Master of Public Relations (MPR)",
+      "Master of Journalism (MJ)",
+      "Master of Digital Media (MDM)",
+      "Master of Strategic Communication (MSC)",
+      "Master of Integrated Marketing Communications (MIMC)",
+      "Master of Corporate Communication (MCC)",
+      "Master of Communication Management (MCM)"
+    ]
+  },
+  {
+    "title": "Bachelor of Science in Human Resources Management (BSHRM)",
+    "higher_education_degree": [
+      "Master of Science in Human Resources Management (MSHRM)",
+      "Master of Business Administration (MBA)",
+      "Professional in Human Resources (PHR)",
+      "Master of Labor and Employment Relations (MLER)",
+      "Master of Organizational Development (MOD)",
+      "Master of Industrial Relations (MIR)",
+      "Master of Strategic Human Resources (MSHR)",
+      "Master of Human Resource Development (MHRD)",
+      "Master of Human Capital Management (MHCM)",
+      "Master of International Human Resources (MIHR)"
+    ]
+  },
+  {
+    "title": "Bachelor of Science in Criminal Justice (BSCJ)",
+    "higher_education_degree": [
+      "Master of Science in Criminal Justice (MSCJ)",
+      "Master of Public Administration (MPA)",
+      "Doctor of Philosophy in Criminal Justice (Ph.D.)",
+      "Master of Legal Studies (MLS)",
+      "Master of Forensic Psychology (MFP)",
+      "Master of Homeland Security (MHS)",
+      "Master of Criminology (MCrim)",
+      "Master of Law (LLM)",
+      "Master of Justice Administration (MJA)",
+      "Master of Social Work (MSW)"
+    ]
+  },
+  {
+    "title": "Bachelor of Science in Nutrition and Dietetics (BSND)",
+    "higher_education_degree": [
+      "Master of Science in Nutrition and Dietetics (MSND)",
+      "Registered Dietitian Nutritionist (RDN)",
+      "Doctor of Philosophy in Nutrition (Ph.D.)",
+      "Master of Public Health Nutrition (MPHN)",
+      "Master of Clinical Nutrition (MCN)",
+      "Master of Sports Nutrition (MSN)",
+      "Master of Food Science and Nutrition (MFSN)",
+      "Master of Human Nutrition (MHN)",
+      "Master of Dietetics (MDiet)",
+      "Master of Nutrition Education (MNE)"
+    ]
+  },
+  {
+    "title": "Bachelor of Science in Forensic Science (BSFS)",
+    "higher_education_degree": [
+      "Master of Science in Forensic Science (MSFS)",
+      "Doctor of Medicine (MD)",
+      "Doctor of Philosophy in Forensic Science (Ph.D.)",
+      "Master of Legal Studies (MLS)",
+      "Master of Criminalistics (MCrim)",
+      "Master of Forensic Chemistry (MFC)",
+      "Master of Forensic Biology (MFB)",
+      "Master of Forensic Anthropology (MFA)",
+      "Master of Forensic Psychology (MFP)",
+      "Master of Forensic Toxicology (MFT)"
+    ]
+  }
+]
