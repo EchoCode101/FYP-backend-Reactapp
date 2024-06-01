@@ -2,10 +2,9 @@ const express = require("express");
 const router = express.Router();
 const SimpleData = require("../models/SimpleData");
 const DetailedData = require("../models/DetailedData");
-const DegreeModel = require("../models/DegreeModel");
+const DegreeModel = require("../models/BachelorModel");
 const WorldUnies = require("../models/WorldsUnies_and_Domains");
 const IntermediateModel = require("../models/IntermediateModel");
-// {}
 router.get("/AllUniversities/simpleData", async (req, res) => {
   try {
     const page = parseInt(req.query.page) || 1; // Default to page 1 if not provided
@@ -80,6 +79,33 @@ router.get("/AllUniversities/detailedData", async (req, res) => {
   } catch (err) {
     console.error(err.message);
     res.status(500).send("Internal server error");
+  }
+});
+router.get("/AllUniversities/detailedDataAll", async (req, res) => {
+  try {
+    // Fetch data based on pagination
+    results = await DetailedData.find();
+
+    res.json(results);
+  } catch (err) {
+    console.error(err.message);
+    res.status(500).send("Internal server error");
+  }
+});
+router.get("/AllUniversities/detailedDataAll/:id", async (req, res) => {
+  try {
+    const document1Id = req.params.id;
+    const document1Data = await DetailedData.findById(document1Id);
+
+    // Find corresponding document 1 data
+    const matchingDocument2 = await SimpleData.findOne({
+      logo_src: document1Data.logo_src,
+    });
+
+    // Return both document 1 and document 2 data
+    res.json({ document2Data: matchingDocument2, document1Data });
+  } catch (err) {
+    res.status(500).json({ message: err.message });
   }
 });
 router.get("/AllUniversities/simpleData/search", async (req, res) => {

@@ -3,7 +3,6 @@ if (process.env.NODE_ENV !== "production") {
 }
 const main = require("./db");
 const express = require("express");
-const ExpressError = require("./utils/ExpressErrors.js");
 const cors = require("cors");
 const flash = require("connect-flash");
 const app = express();
@@ -58,10 +57,12 @@ app.post(
 
 // Define logout route
 app.get("/api/logout", logout);
-
+app.get("/", async (req, res) => {
+  res.send("Hello World");
+});
 // For All Other Routes (Undefined Routes)
-app.all("*", (req, res, next) => {
-  next(new ExpressError(404, "Page Not Found!"));
+app.all("*", (req, res) => {
+  res.json({ message: "404 - Not Found" });
 });
 
 // Your server listener
